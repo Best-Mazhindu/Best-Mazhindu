@@ -18,7 +18,7 @@ I am an **AWS-certified Solutions Architect** specializing in **AI/ML** and **Cl
 I have significant experience leading cloud, AI, and cybersecurity initiatives for both enterprises and startups. I focus on delivering measurable business impact through automation, predictive analytics, and digital transformation.
 
 <p align="center">
-    <img src="https://github.com/Best-Mazhindu/Best-Mazhindu/raw/main/profile-image.png" alt="Best Mazhindu - AI & Cloud Solutions Architect" width="250"/>
+    <img src="https://github.com/Best-Mazhindu/Best-Mazhindu/profile-image.jpeg" alt="Best Mazhindu - AI & Cloud Solutions Architect" width="250"/>
     <br>
     *(Replace the image link with your actual image path)*
 </p>
