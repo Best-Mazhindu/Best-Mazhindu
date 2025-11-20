@@ -20,7 +20,7 @@ I have significant experience leading cloud, AI, and cybersecurity initiatives f
 <p align="center">
     <img src="https://github.com/Best-Mazhindu/Best-Mazhindu/blob/main/profile-image.jpeg" alt="Best Mazhindu - AI & Cloud Solutions Architect" width="250"/>
     <br>
-    *(Replace the image link with your actual image path)*
+    
 </p>
 
 ---
