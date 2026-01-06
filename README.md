@@ -1,6 +1,6 @@
 # 🚀 Best Mazhindu
 
-### Cloud & AI Solutions Architect (AWS, AI/ML & Security Focus) | AI & Cloud Strategy Leader 
+### Cloud & AI Solutions Architect (AWS, AI/ML & DataScience) | AI & Cloud Strategy Leader 
 
 **Contact:**
 * **Phone:** +263 775 526 709 
@@ -13,9 +13,9 @@
 
 ## 👤 Professional Summary
 
-I am an **AWS-certified Solutions Architect** specializing in **AI/ML** and **Cloud Security**. I am skilled in designing scalable, secure, and intelligent systems that effectively balance innovation with compliance.
+I am an **AWS-certified Solutions Architect** specializing in **AI/ML** and **Datascience**. I am skilled in designing scalable, secure, and intelligent systems that effectively balance innovation with compliance.
 
-I have significant experience leading cloud, AI, and cybersecurity initiatives for both enterprises and startups. I focus on delivering measurable business impact through automation, predictive analytics, and digital transformation.
+I have significant experience leading cloud, ML and  AI initiatives for both enterprises and startups. I focus on delivering measurable business impact through automation, predictive analytics, and data analytics.
 
 <p align="center">
     <img src="https://github.com/Best-Mazhindu/Best-Mazhindu/blob/main/profile-image.jpeg" alt="Best Mazhindu - AI & Cloud Solutions Architect" width="250"/>
@@ -48,7 +48,6 @@ I hold key certifications validating my expertise in Cloud Architecture, AI/ML, 
 * **AWS AI/ML Specialty** 
 * **AWS Cloud Practitioner** 
 * **AWS Security Specialty**
-* **ISO/IEC 27001 Lead Implementer** 
 * **PMP - Project Management for Cloud & AI Initiatives** 
 * **Python Meta Full-Stack Developer - Meta**
 
@@ -56,7 +55,7 @@ I hold key certifications validating my expertise in Cloud Architecture, AI/ML, 
 
 ## 💼 Selected Professional Experience
 
-### Technology Consultant / Solutions Architect (AI/ML & Security Focus) 
+### Technology Consultant / Solutions Architect (AI/ML & Data Science Focus) 
 **Poshi Creative** |*2021 - Present* 
 
 * Delivered AI-powered solutions that achieved a **30% reduction in operational costs** and a **25% increase in productivity**.
