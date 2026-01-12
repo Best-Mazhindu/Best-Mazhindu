@@ -1,113 +1,199 @@
-# 🚀 Best Mazhindu
+[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://Best-Mazhindu.github. io/web)
 
-### Cloud & AI Solutions Architect (AWS, AI/ML & DataScience) | AI & Cloud Strategy Leader 
+<h1 align="center">Hi 👋, I'm Best Mazhindu</h1>
+<h3 align="center">Cloud & AI Solutions Architect (AWS, AI/ML & DataScience) | AI & Cloud Strategy Leader from Zimbabwe</h3>
 
-**Contact:**
-* **Phone:** +263 775 526 709 
-* **Email:** b.mazhindu@yahoo.com
-* **LinkedIn:** [linkedin.com/in/best-mazhindu/](https://linkedin.com/in/best-mazhindu/) 
-* **GitHub Portfolio:** [github.com/Best-Mazhindu](https://github.com/Best-Mazhindu) 
-* **Website:** [Best-Mazhindu.github.io/web](https://Best-Mazhindu.github.io/web) 
+<p align="center">
+    <img src="https://github.com/Best-Mazhindu/Best-Mazhindu/blob/main/profile-image. jpeg" alt="Best Mazhindu" width="200"/>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=best-mazhindu&label=Profile%20views&color=0e75b6&style=flat" alt="best-mazhindu" /> 
+</p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=best-mazhindu&theme=darkhub&no-frame=true&row=1&column=7" alt="best-mazhindu" />
+  </a> 
+</p>
 
 ---
 
 ## 👤 Professional Summary
 
-I am an **AWS-certified Solutions Architect** specializing in **AI/ML** and **Datascience**. I am skilled in designing scalable, secure, and intelligent systems that effectively balance innovation with compliance.
+I am an **AWS-certified Solutions Architect** specializing in **AI/ML** and **Data Science**. I am skilled in designing scalable, secure, and intelligent systems that effectively balance innovation with business objectives.
 
-I have significant experience leading cloud, ML and  AI initiatives for both enterprises and startups. I focus on delivering measurable business impact through automation, predictive analytics, and data analytics.
-
-<p align="center">
-    <img src="https://github.com/Best-Mazhindu/Best-Mazhindu/blob/main/profile-image.jpeg" alt="Best Mazhindu - AI & Cloud Solutions Architect" width="250"/>
-    <br>
-    
-</p>
+I have significant experience leading cloud, ML and AI initiatives for both enterprises and startups. I focus on delivering measurable business impact through automation, predictive analytics, and strategic cloud adoption.
 
 ---
 
-## 🛠️ Technical Expertise
+## 💼 Professional Experience
 
-My core competencies span the full lifecycle of intelligent cloud solutions:
+### 🚀 Technology Consultant / Solutions Architect (AI/ML & Data Science Focus)
+**Poshi Creative** | *2021 - Present*
 
-| Category | Key Skills & Technologies |
-| :--- | :--- |
-| **Cloud & DevOps** | AWS (SageMaker, EC2, S3, RDS, CloudFormation, CloudWatch), CI/CD, Terraform  |
-| **AI/ML & Data Science** | Model Training/Deployment, NLP, Computer Vision, **Predictive Analytics** , Python, TensorFlow, PyTorch, Pandas, NumPy, SQL  |
-| **Security & Compliance** |AWS Security , **ISO 27001** , NIST, COBIT Framework  |
-| **Programming** | **Python**  SQL , basic JavaScript , HTML  |
-| **Analytics & BI** |Power BI , SageMaker  |
-| **Emerging Tech** | IoT Solutions, Cloud Adoption Strategies, Digital Transformation Consulting  |
+- 🎯 Delivered AI-powered solutions that achieved a **30% reduction in operational costs** and a **25% increase in productivity**
+- ☁️ Oversaw cloud infrastructure design and deployment (AWS EC2, S3, RDS), ensuring secure and compliant operations
+- 🔧 Led the technology division offering AI, ML, IoT, and digital transformation services
+
+### 💻 Python Developer & AI/ML Engineer
+**IS Systems Solutions** | *Oct 2016 - Dec 2020*
+
+- 📊 Developed **predictive analytics and NLP models** for various business applications
+- 🐳 Deployed ML models using **Flask and Docker** for scalability and reliability
+- ⚡ Automated data pipelines, resulting in a **40% reduction in processing time**
 
 ---
 
 ## 🏆 Certifications & Specialties
 
-I hold key certifications validating my expertise in Cloud Architecture, AI/ML, and Security:
-
-* **AWS Solutions Architect Associate**
-* **AWS AI/ML Specialty** 
-* **AWS Cloud Practitioner** 
-* **AWS Security Specialty**
-* **PMP - Project Management for Cloud & AI Initiatives** 
-* **Python Meta Full-Stack Developer - Meta**
+- ✅ **AWS Solutions Architect Associate**
+- ✅ **AWS AI/ML Specialty**
+- ✅ **AWS Security Specialty**
+- ✅ **AWS Cloud Practitioner**
+- ✅ **PMP - Project Management for Cloud & AI Initiatives**
+- ✅ **Python Meta Full-Stack Developer - Meta**
 
 ---
 
-## 💼 Selected Professional Experience
+## 🛠️ Technical Expertise
 
-### Technology Consultant / Solutions Architect (AI/ML & Data Science Focus) 
-**Poshi Creative** |*2021 - Present* 
+| Category | Key Skills & Technologies |
+| :--- | :--- |
+| **Cloud & DevOps** | AWS (SageMaker, EC2, S3, RDS, CloudFormation, CloudWatch), CI/CD, Terraform |
+| **AI/ML & Data Science** | Model Training/Deployment, NLP, Computer Vision, Predictive Analytics, Python, TensorFlow, PyTorch, Pandas, NumPy, SQL |
+| **Security & Compliance** | AWS Security, ISO 27001, NIST, COBIT Framework |
+| **Programming** | Python, SQL, JavaScript, HTML, CSS |
+| **Analytics & BI** | Power BI, SageMaker |
+| **Emerging Tech** | IoT Solutions, Cloud Adoption Strategies, Digital Transformation Consulting |
 
-* Delivered AI-powered solutions that achieved a **30% reduction in operational costs** and a **25% increase in productivity**.
-* Oversaw cloud infrastructure design and deployment (AWS EC2, S3, RDS), ensuring secure and compliant operations.
-* Led the technology division offering AI, ML, IoT, and digital transformation services.
+---
 
-### Python Developer & AI/ML Engineer 
-**IS Systems Solutions** | *Oct 2016 - Dec 2020* 
+## 🔭 Current Focus
 
-* Developed **predictive analytics and NLP models** for various business applications.
-* Deployed ML models using **Flask and Docker** for scalability and reliability.
-* Automated data pipelines, resulting in a **40% reduction in processing time**.
+- 🌱 I'm currently learning **Advanced Cloud Architecture & AI/ML at Scale**
+- 👯 I'm looking to collaborate on **AI/ML & Cloud Infrastructure Projects**
+- 🤝 I'm looking for help with **Large-Scale Data Engineering**
+- 💬 Ask me about **AWS, AI/ML, Cloud Solutions, Python, Data Science**
+- 📫 How to reach me: **b.mazhindu@yahoo.com**
+- 📱 Phone: **+263 775 526 709**
+
+---
+
+## 🌐 Connect with me: 
+
+<p align="left">
+<a href="https://linkedin.com/in/best-mazhindu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="best-mazhindu" height="30" width="40" /></a>
+<a href="https://github.com/Best-Mazhindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="best-mazhindu" height="30" width="40" /></a>
+</p>
+
+---
+
+## 💻 Languages and Tools: 
+
+<p align="left"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original. svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+  </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a> 
+</p>
 
 ---
 
 ## ✨ Project Portfolio & Achievements
 
-### AWS Projects [cite: 51]
-* **15+ hands-on cloud deployments** covering DevOps, ML/AI, and security solutions.
+### AWS Projects
+- 🏗️ **15+ hands-on cloud deployments** covering DevOps, ML/AI, and security solutions
 
-### Python & AI Projects 
-* **15+ automation, AI/ML, API integrations, and web applications**.
+### Python & AI Projects
+- 🤖 **15+ automation, AI/ML, API integrations, and web applications**
 
-### Notable Achievements 
-* Appointed **Management Representative** for SAZ to implement ISO 9001 QMS.
-* Appointed **Technical Director** at PCG Tech division.
-* **Co-founder and Director** of IS Systems Solutions.
-* Led digital transformation initiatives, integrating cybersecurity, AI, and IoT solutions.
+### Notable Achievements
+- 🏅 Appointed **Management Representative** for SAZ to implement ISO 9001 QMS
+- 🎯 Appointed **Technical Director** at PCG Tech division
+- 💼 **Co-founder and Director** of IS Systems Solutions
+- 🚀 Led digital transformation initiatives, integrating cybersecurity, AI, and IoT solutions
+
+---
+
+## 📊 GitHub Stats: 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api? username=best-mazhindu&show_icons=true&theme=tokyonight&hide_border=true" alt="best-mazhindu" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/? user=best-mazhindu&theme=tokyonight&hide_border=true" alt="best-mazhindu" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=best-mazhindu&layout=compact&theme=tokyonight&hide_border=true" alt="best-mazhindu" />
+</p>
 
 ---
 
 ## 🤝 Soft Skills & Leadership
 
-My approach to technology is driven by strategic leadership and effective collaboration:
-
-* **Leadership** 
-* **Strategic Thinking** 
-* **Project Management** (Agile, Scrum) 
-* **Communication & Stakeholder Management** 
-* **Problem Solving & Analytical Thinking** 
+- 🎯 **Leadership** | Strategic Thinking
+- 📋 **Project Management** (Agile, Scrum)
+- 💬 **Communication & Stakeholder Management**
+- 🧩 **Problem Solving & Analytical Thinking**
 
 ---
 
 ## 📚 Education
 
-* **MBA - AI & Business Strategy** | Zimbabwe Open University (2022) 
-* **BSc Information Technology** | Midlands State University (2015) 
+- 🎓 **MBA - AI & Business Strategy** | Zimbabwe Open University (2022)
+- 🎓 **BSc Information Technology** | Midlands State University (2015)
 
 ---
 
 ## 💡 Hobbies & Interests
 
-* Staying updated on AI, machine learning, and low-code/no-code development.
-* Participating in hackathons and tech community events.
-* Mentoring aspiring developers in AI/ML and cloud technologies.
+- 📖 Staying updated on AI, machine learning, and low-code/no-code development
+- 🏆 Participating in hackathons and tech community events
+- 👨‍🏫 Mentoring aspiring developers in AI/ML and cloud technologies
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
