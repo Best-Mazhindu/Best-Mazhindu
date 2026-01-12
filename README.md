@@ -102,21 +102,7 @@ I have significant experience leading cloud, ML and AI initiatives for both ente
 
 ---
 
-## 📊 GitHub Stats: 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=best-mazhindu&show_icons=true&theme=tokyonight&hide_border=true" alt="best-mazhindu" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=best-mazhindu&theme=tokyonight&hide_border=true" alt="best-mazhindu" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=best-mazhindu&layout=compact&theme=tokyonight&hide_border=true" alt="best-mazhindu" />
-</p>
-
----
 
 ## 🤝 Soft Skills & Leadership
 
