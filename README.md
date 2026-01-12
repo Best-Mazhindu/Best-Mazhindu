@@ -4,7 +4,7 @@
 <h3 align="center">Cloud & AI Solutions Architect (AWS, AI/ML & DataScience) | AI & Cloud Strategy Leader from Zimbabwe</h3>
 
 <p align="center">
-    <img src="https://github.com/Best-Mazhindu/Best-Mazhindu/blob/main/profile-image. jpeg" alt="Best Mazhindu" width="200"/>
+    <img src="https://github.com/Best-Mazhindu/Best-Mazhindu/blob/main/profile-image.jpeg" alt="Best Mazhindu" width="200"/>
 </p>
 
 <p align="center"> 
