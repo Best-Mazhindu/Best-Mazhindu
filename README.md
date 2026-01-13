@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://Best-Mazhindu.github.io/web)
 
 <h1 align="center">Hi 👋, I'm Best Mazhindu</h1>
-<h3 align="center">Cloud & AI Solutions Architect (AWS, AI/ML & DataScience) | AI & Cloud Strategy Leader from Zimbabwe</h3>
+<h3 align="center">Cloud & AI Solutions Architect (AWS, AI/ML & DataScience) | AI & Cloud Strategy Leader </h3>
 
 <p align="center">
     <img src="https://github.com/Best-Mazhindu/Best-Mazhindu/blob/main/profile-image.jpeg" alt="Best Mazhindu" width="200"/>
