@@ -46,6 +46,7 @@ I have significant experience leading cloud, ML and AI initiatives for both ente
 - ✅ **Python, Data Science, Machine Learning & AI – Embark School AI/ML Path**
 - ✅ **Python Full-Stack Developer – TreeHouse**
 - ✅ **Python Meta Full-Stack Developer - Meta**
+  
 **Leadership, Governance & Professional Development**
 - ✅ **MLOps Foundations – Model Lifecycle, CI/CD, Monitoring**
 - ✅ **PMP - Project Management for Cloud & AI Initiatives**
