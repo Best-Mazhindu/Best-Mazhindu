@@ -45,10 +45,11 @@ I have significant experience leading cloud, ML and AI initiatives for both ente
 - ✅ **Codebasics AI/ML Bootcamp (Hands-on Practice)**
 - ✅ **Python, Data Science, Machine Learning & AI – Embark School AI/ML Path**
 - ✅ **Python Full-Stack Developer – TreeHouse**
-- ✅ **Python Meta Full-Stack Developer - Meta**
   
 **Leadership, Governance & Professional Development**
 - ✅ **MLOps Foundations – Model Lifecycle, CI/CD, Monitoring**
+- ✅ **Build 100 Real-World Autonomous AI Agents (Practical Agentic AI Experience)**
+- ✅ **Chief AI Officer (CAIO) – AI Strategy, Ethics & Business Leadership (In Progress)**
 - ✅ **PMP - Project Management for Cloud & AI Initiatives**
 - ✅ **AI Governance & Security Frameworks:  (MLSecOps, NIST AI RMF, COBIT, ISO, NIST)**
 - ✅ **AI for everyone – DeepLearning(completed)**
