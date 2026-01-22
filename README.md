@@ -38,13 +38,34 @@ I have significant experience leading cloud, ML and AI initiatives for both ente
 ---
 
 ## 🏆 Certifications & Specialties
-
+Professional Certifications & Applied Learning
 - ✅ **AWS Solutions Architect Associate**
 - ✅ **AWS AI/ML Specialty**
 - ✅ **AWS Security Specialty**
-- ✅ **AWS Cloud Practitioner**
+- ✅ **Python, Data Science, Machine Learning & AI – Embark School AI/ML Path**
 - ✅ **PMP - Project Management for Cloud & AI Initiatives**
 - ✅ **Python Meta Full-Stack Developer - Meta**
+
+
+1.	AWS Certified Solutions Architect – Associate
+2.	AWS Certified Machine Learning – Specialty 
+3.	 
+4.	Python Full-Stack Developer – TreeHouse 
+6.	Codebasics AI/ML Bootcamp (Hands-on Practice)
+7.	
+   
+Leadership, Governance & Professional Development
+   Build 100 Real-World Autonomous AI Agents (Practical Agentic AI Experience)
+9.	Chief AI Officer (CAIO) – AI Strategy, Ethics & Business Leadership (In Progress)
+10.	PMP – Project Management for Cloud & AI Initiatives
+11.	MLOps Foundations – Model Lifecycle, CI/CD, Monitoring
+12.	AI Governance & Security Frameworks
+(MLSecOps, NIST AI RMF, COBIT, ISO, NIST)
+	AI for everyone – DeepLearning(completed) 
+
+
+
+
 
 ---
 
