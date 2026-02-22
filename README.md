@@ -143,3 +143,214 @@ I have significant experience leading cloud, ML and AI initiatives for both ente
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+<hr>
+
+
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:001f3f,100:0066cc&height=200&section=header&text=Best%20Mazhindu&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Cloud%20%26%20AI%20Solutions%20Architect&descSize=20&descAlignY=65&descColor=ffffff"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;AI+%2F+ML+%26+Data+Science+Engineer+%F0%9F%A4%96;Digital+Transformation+Leader+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+## 👤 About Me
+
+```yaml
+name: Best Mazhindu
+location: Harare, Zimbabwe 🇿🇼
+role: Cloud & AI Solutions Architect
+company: Poshi Creative (PCG Holdings)
+
+expertise:
+  - AWS Architecture & DevOps
+  - AI / ML & Data Science
+  - Digital Transformation
+  - IoT & Emerging Tech
+
+currently_learning:
+  - Advanced Cloud at Scale
+  - Agentic AI Systems
+  - Chief AI Officer (CAIO) Track
+
+open_to: AI/ML & Cloud Collaboration
+contact: b.mazhindu@yahoo.com
+```
+
+</td>
+<td valign="top" width="50%">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Best-Mazhindu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Best-Mazhindu&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Impact at a Glance
+
+<div align="center">
+
+| 🎯 Metric | 📈 Result |
+|:---|:---|
+| Operational Cost Reduction | **30%** via AI-powered automation |
+| Productivity Increase | **25%** for client organizations |
+| Pipeline Processing Speed | **40% faster** via automated pipelines |
+| Cloud & DevOps Deployments | **15+** hands-on AWS projects |
+| AI/ML & Web Projects | **15+** production applications |
+| Websites Delivered | **50+** enterprise builds |
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS ML](https://img.shields.io/badge/AWS-AI%2FML_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PMP](https://img.shields.io/badge/PMP-Project_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-Foundations-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![CAIO](https://img.shields.io/badge/CAIO-AI_Strategy_(In_Progress)-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![NIST](https://img.shields.io/badge/AI_Governance-NIST_AI_RMF-DC143C?style=for-the-badge&logo=security&logoColor=white)
+![DeepLearning](https://img.shields.io/badge/DeepLearning.AI-AI_for_Everyone-00BCD4?style=for-the-badge&logo=coursera&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-100_Real_World_Agents-10B981?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 🤖 AI / ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 💻 Programming & Web
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 📊 Analytics & Security
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Professional Journey
+
+```
+2021 ─────────────────────────────────────────────────────── Present
+│
+│  🚀  Technology Consultant & Solutions Architect (AI/ML Focus)
+│      Poshi Creative | PCG Holdings, Harare ZW
+│      → 30% cost reduction via AI automation
+│      → 50+ enterprise websites delivered
+│      → ISO 9001 QMS implementation on SharePoint
+│      → Led AI, ML, IoT & Digital Transformation division
+│
+2016 ──────────────────────────────────────────────── Dec 2020
+│
+│  💻  Python Developer & AI/ML Engineer
+│      IS Systems Solutions (Co-founder & Director)
+│      → 40% faster pipelines via automation
+│      → Deployed NLP & Predictive Analytics models
+│      → ML models via Flask + Docker
+│
+```
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🏛️ Institution | 📜 Qualification | 📅 Year |
+|:---|:---|:---|
+| Zimbabwe Open University | **MBA – AI & Business Strategy** | 2022 |
+| Midlands State University | **BSc Information Technology** | 2015 |
+
+</div>
+
+---
+
+## 🏅 Notable Achievements
+
+> 🏅 **Management Representative** — Appointed by SAZ to implement ISO 9001 QMS  
+> 🎯 **Technical Director** — Appointed at PCG Tech Division  
+> 💼 **Co-founder & Director** — IS Systems Solutions  
+> 🚀 **Digital Transformation Leader** — Integrating Cybersecurity, AI, and IoT solutions  
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Best_Mazhindu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/best-mazhindu/)
+[![GitHub](https://img.shields.io/badge/GitHub-Best--Mazhindu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Best-Mazhindu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bestmazhindu.netlify.app-00D4FF?style=for-the-badge&logo=netlify&logoColor=white)](https://bestmazhindu.netlify.app)
+[![Email](https://img.shields.io/badge/Email-b.mazhindu%40yahoo.com-D14836?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:b.mazhindu@yahoo.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B263_775_526_709-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+263775526709)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Best-Mazhindu&bg_color=0d1117&color=00d4ff&line=0066cc&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Best-Mazhindu&label=Profile+Views&color=00d4ff&style=for-the-badge)
+
+*"Building the future at the intersection of Cloud, AI, and Human Potential"*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:001f3f&height=100&section=footer"/>
+
+</div>
+
