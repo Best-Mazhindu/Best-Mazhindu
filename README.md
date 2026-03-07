@@ -1,36 +1,5 @@
 
 
-
-
-## 👤 Professional Summary
-
-I am an **AWS-certified Solutions Architect** specializing in **AI/ML** and **Data Science**. I am skilled in designing scalable, secure, and intelligent systems that effectively balance innovation with business objectives.
-
-I have significant experience leading cloud, ML and AI initiatives for both enterprises and startups. I focus on delivering measurable business impact through automation, predictive analytics, and strategic cloud adoption.
-
----
-
-## 💼 Professional Experience
-
-### 🚀 Technology Consultant / Solutions Architect (AI/ML & Data Science Focus)
-**Poshi Creative** | *2021 - Present*
-
-- 🎯 Delivered AI-powered solutions that achieved a **30% reduction in operational costs** and a **25% increase in productivity**
-- ☁️ Oversaw cloud infrastructure design and deployment (AWS EC2, S3, RDS), ensuring secure and compliant operations
-- 🔧 Led the technology division offering AI, ML, IoT, and digital transformation services
-
-### 💻 Python Developer & AI/ML Engineer
-**IS Systems Solutions** | *Oct 2016 - Dec 2020*
-
-- 📊 Developed **predictive analytics and NLP models** for various business applications
-- 🐳 Deployed ML models using **Flask and Docker** for scalability and reliability
-- ⚡ Automated data pipelines, resulting in a **40% reduction in processing time**
-
----
-
-
-
-....................................................................................................................
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Best%20Mazhindu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20AWS%20AI%2FML%20Certified%20%E2%80%A2%20Python%20Developer&descAlignY=58&descAlign=50" width="100%" />
 </p>
