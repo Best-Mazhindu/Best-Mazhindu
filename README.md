@@ -1,15 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://Best-Mazhindu.github.io/web)
 
-<h1 align="center">Hi 👋, I'm Best Mazhindu</h1>
-<h3 align="center">Cloud & AI Solutions Architect (AWS, AI/ML & DataScience) | AI & Cloud Strategy Leader </h3>
 
-<p align="center">
-    <img src="https://github.com/Best-Mazhindu/Best-Mazhindu/blob/main/profile-image.jpeg" alt="Best Mazhindu" width="200"/>
-</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasitbinqadeer&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasitbinqadeer" /> </p>
-
----
 
 ## 👤 Professional Summary
 
@@ -42,6 +33,21 @@ I have significant experience leading cloud, ML and AI initiatives for both ente
 ....................................................................................................................
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Best%20Mazhindu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20AWS%20AI%2FML%20Certified%20%E2%80%A2%20Python%20Developer&descAlignY=58&descAlign=50" width="100%" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/Best-Mazhindu/Best-Mazhindu/blob/main/profile-image.jpeg" alt="Best Mazhindu" width="200"/>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Best%20Mazhindu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20AWS%20AI%2FML%20Certified%20%E2%80%A2%20Python%20Developer&descAlignY=58&descAlign=50" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Best-Mazhindu/Best-Mazhindu/blob/main/profile-image.jpeg"
+       width="180"
+       style="border-radius:50%; margin-top:-80px; border:5px solid white;" />
 </p>
 
 <p align="center">
@@ -147,21 +153,7 @@ class BestMazhindu:
 | **Security & Compliance** | AWS Security, ISO 27001, NIST, COBIT Framework |
 | **Programming** | Python, SQL, JavaScript, HTML, CSS |
 | **Analytics & BI** | Power BI, SageMaker |
-| **Emerging Tech** | IoT Solutions, Cloud Adoption Strategies, Digital Transformation Consulting |
-
----
-
-## 🔭 Current Focus
-
-- 🌱 I'm currently learning **Advanced Cloud Architecture & AI/ML at Scale**
-- 👯 I'm looking to collaborate on **AI/ML & Cloud Infrastructure Projects**
-- 🤝 I'm looking for help with **Large-Scale Data Engineering**
-- 💬 Ask me about **AWS, AI/ML, Cloud Solutions, Python, Data Science**
-- 📫 How to reach me: **b.mazhindu@yahoo.com**
-- 📱 Phone: **+263 775 526 709**
-
----
-
+| **Emerging Tech** | IoT Solutions, Cloud Adoption Strategies, Digital Transformation Consulting 
 
 
 
@@ -170,9 +162,6 @@ class BestMazhindu:
 
 
 ## ✨ Project Portfolio & Achievements
-
-### AWS Projects
-- 🏗️ **15+ hands-on cloud deployments** covering DevOps, ML/AI, and security solutions
 
 ### Python & AI Projects
 - 🤖 **15+ automation, AI/ML, API integrations, and web applications**
@@ -194,20 +183,6 @@ class BestMazhindu:
 - 💬 **Communication & Stakeholder Management**
 - 🧩 **Problem Solving & Analytical Thinking**
 
----
-
-## 📚 Education
-
-- 🎓 **MBA - AI & Business Strategy** | Zimbabwe Open University (2022)
-- 🎓 **BSc Information Technology** | Midlands State University (2015)
-
----
-
-## 💡 Hobbies & Interests
-
-- 📖 Staying updated on AI, machine learning, and low-code/no-code development
-- 🏆 Participating in hackathons and tech community events
-- 👨‍🏫 Mentoring aspiring developers in AI/ML and cloud technologies
 
 ---
 
@@ -365,16 +340,25 @@ ai_capabilities:
 - ✅ **AI Governance & Security Frameworks:  (MLSecOps, NIST AI RMF, COBIT, ISO, NIST)**
 - ✅ **AI for everyone – DeepLearning(completed)**
 
-## 🎓 Professional Credentials
-
-**Education**
-
-| Qualification | Institution | Year |
-
-- MBA — AI & Business Strategy | Zimbabwe Open University | 2022 |
-- BSc Information Technology | Midlands State University | 2015 |
 
 ---
+
+## 📚 Education
+
+- 🎓 **MBA - AI & Business Strategy** | Zimbabwe Open University (2022)
+- 🎓 **BSc Information Technology** | Midlands State University (2015)
+
+---
+
+## 💡 Hobbies & Interests
+
+- 📖 Staying updated on AI, machine learning, and low-code/no-code development
+- 🏆 Participating in hackathons and tech community events
+- 👨‍🏫 Mentoring aspiring developers in AI/ML and cloud technologies
+
+
+
+
 
 ## 🌍 Career Vision
 
