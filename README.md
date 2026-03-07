@@ -158,7 +158,21 @@ class BestMazhindu:
 
 
 
+ystem at a time.*
 
+<br/>
+
+| 🚀 **2025 · NOW** | &nbsp;›&nbsp; | 🎓 **2026 · NEXT** | &nbsp;›&nbsp; | 🔬 **2028 · MID** | &nbsp;›&nbsp; | 🏛️ **2030 · LEGACY** | &nbsp;›&nbsp; | 🌍 **2033+ · DREAM** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `● ACTIVE` | | `○ PLANNED` | | `○ VISION` | | `○ VISION` | | `○ DREAM` |
+| Senior / Lead | | PhD Research | | AI Research | | AI Research | | Global AI |
+| AI/ML Engineer | | Trustworthy AI | | Scientist | | Centre · Zimbabwe | | Innovation Leader |
+| *Global · Remote* | | *LLM Alignment* | | *Global Institutions* | | *African AI Hub* | | *Worldwide Impact* |
+
+<br/>
+
+> Africa's unique challenges require **African-built AI solutions**. The goal is not just to use AI —
+> it's to build the **infrastructure, institutions, and talent pipelines** that make Africa a global AI contributor, not just a consumer.
 
 
 ## ✨ Project Portfolio & Achievements
