@@ -51,7 +51,23 @@ My work spans the full ML lifecycle: **predictive analytics**, **NLP solutions**
 📍 Harare, Zimbabwe — available **globally and remotely** | 🚀 Currently advancing in **Generative AI & MLOps**
 
 ---
+## Professional Experience
 
+**AI/ML Engineer & Technology Consultant **
+Poshi Creative (PCG Holdings) · Harare, Zimbabwe · *2021 – Present*
+
+- Engineered AI/ML solutions — NLP, predictive analytics, computer vision — delivering ~30% cost reduction and 25% productivity gains across client engagements
+- Implemented ISO 9001-compliant digital QMS on SharePoint, establishing ML governance and compliance processes
+- Formally appointed Technical Director of the PCG Holdings AI & Technology division — owning ML strategy, architecture decisions, and delivery oversight
+
+**Python Developer & AI/ML Engineer · Co-founder**
+IS Systems Solutions · Harare, Zimbabwe · *Oct 2016 – Dec 2020*
+
+- Engineered production predictive analytics and NLP models for banking, retail, and logistics clients
+- Containerised and deployed ML models via Flask REST APIs and Docker in live production environments
+- Designed Python-based ETL pipelines with automated validation — reducing processing time by 40%
+- Co-founded and grew IS Systems Solutions into a Python & AI/ML engineering consultancy
+---
 ## 🧬 About Best
 
 ```python
@@ -99,7 +115,43 @@ class BestMazhindu:
 ```
 
 ---
-Techstack ...
+
+## Technology Stack
+
+**AI / ML**&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**LLMs & GenAI**&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+
+**Data Engineering**&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Cloud & MLOps**&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**APIs & Backend**&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
@@ -192,42 +244,6 @@ ai_capabilities:
 ---
 ---
 
-## Technology Stack
-
-**AI / ML**&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-**LLMs & GenAI**&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-
-**Data Engineering**&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Cloud & MLOps**&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**APIs & Backend**&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
@@ -488,22 +504,7 @@ data_engineering:
 
 ---
 
-## Professional Experience
 
-**AI/ML Engineer & Technology Consultant **
-Poshi Creative (PCG Holdings) · Harare, Zimbabwe · *2021 – Present*
-
-- Engineered AI/ML solutions — NLP, predictive analytics, computer vision — delivering ~30% cost reduction and 25% productivity gains across client engagements
-- Implemented ISO 9001-compliant digital QMS on SharePoint, establishing ML governance and compliance processes
-- Formally appointed Technical Director of the PCG Holdings AI & Technology division — owning ML strategy, architecture decisions, and delivery oversight
-
-**Python Developer & AI/ML Engineer · Co-founder**
-IS Systems Solutions · Harare, Zimbabwe · *Oct 2016 – Dec 2020*
-
-- Engineered production predictive analytics and NLP models for banking, retail, and logistics clients
-- Containerised and deployed ML models via Flask REST APIs and Docker in live production environments
-- Designed Python-based ETL pipelines with automated validation — reducing processing time by 40%
-- Co-founded and grew IS Systems Solutions into a Python & AI/ML engineering consultancy
 
 
 ## Open to Collaboration
@@ -514,75 +515,4 @@ IS Systems Solutions · Harare, Zimbabwe · *Oct 2016 – Dec 2020*
 - **Open Source** — ML tooling, African AI datasets, responsible AI projects
 - **AI Education** — workshops, mentoring, community building in Zimbabwe & Africa
 
-> Got a hard data problem? Let's engineer the solution. → [best@bestmazhindu.com](mailto:best@bestmazhindu.com)
-
----
-
-──────────────────────────────────────────────────────────────────────────────────
-  🚀  →  🎓  →  🔬  →  🏛️  →  🌍
-  NOW     2026    2028    2030    2033+
-──────────────────────────────────────────────────────────────────────────────────
-```
-
-<br/>
-
-**`🚀  NOW — 2025`** &nbsp;·&nbsp; Senior / Lead AI/ML Engineer — Global
-```
-  Role      →  Senior AI/ML Engineer · Lead ML Engineer · Principal ML Roles
-  Status    →  Active · Remote-ready · Available globally
-  Standing  →  7+ years production ML · AWS AI/ML Certified · 50+ systems delivered
-```
-
----
-
-**`🎓  NEXT — 2026`** &nbsp;·&nbsp; PhD Research — Trustworthy AI & LLM Alignment
-```
-  Focus     →  Trustworthy AI · LLM alignment · AI robustness in production systems
-  Why       →  Bridging 7+ years of industry ML engineering with rigorous research
-  Goal      →  Become a Research Scientist who has shipped systems, not just papers
-```
-
----
-
-**`🔬  MID — 2028`** &nbsp;·&nbsp; AI Research Scientist
-```
-  Output    →  Published research · Global institutional collaborations
-  Focus     →  AI systems that are safe, fair, and impactful at scale
-  Bridge    →  Production experience + academic rigour = rare research profile
-```
-
----
-
-**`🏛️  LEGACY — 2030`** &nbsp;·&nbsp; Found an AI Research Centre — Zimbabwe
-```
-  Mission   →  A hub for African AI innovation
-  Purpose   →  Train the next generation of African AI researchers
-  Impact    →  Solve uniquely African problems with world-class AI
-```
-
----
-
-**`🌍  DREAM — 2033+`** &nbsp;·&nbsp; Global AI Innovation Leader
-```
-  Scale     →  Systems that reshape entire industries
-  Bridge    →  Close the AI gap between developed and developing nations
-  Legacy    →  Lasting mark on how humanity builds intelligent systems
-```
-
-<br/>
-
-> Africa's unique challenges require **African-built AI solutions**.
-> The goal is not just to use AI — it's to build the **infrastructure, institutions,
-> and talent pipelines** that make Africa a global AI contributor, not just a consumer.
-
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
-  <br/>
-  <em>"The best way to predict the future is to engineer it."</em>
-  <br/><br/>
-  <sub>Best Mazhindu · AI/ML Engineer · Harare, Zimbabwe 🇿🇼</sub>
-</div>
 
