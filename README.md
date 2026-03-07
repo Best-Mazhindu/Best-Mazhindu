@@ -264,7 +264,7 @@ I'm actively open to:
 
 
 ---
-<h3 align="center">🌐 Connect with Me</h3>
+<h2 align="center"> Connect with Me</h2>
 <p align="center">
 
 <a href="https://bestmazhindu.com" target="_blank">
