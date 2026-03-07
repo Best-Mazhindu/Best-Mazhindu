@@ -29,9 +29,11 @@
   <img src="https://img.shields.io/badge/Open%20To-Senior%20%7C%20Lead%20AI%2FML%20Roles-brightgreen?style=flat" />
   <img src="https://img.shields.io/badge/Location-Harare%2C%20Zimbabwe%20%E2%80%94%20Remote%20Ready-orange?style=flat" />
 </p>
+
+
 ---
----
-## ⚡ Professional Introduction
+
+## Professional Introduction
 
 > *"ML that ships to production > ML that only impresses."*
 
