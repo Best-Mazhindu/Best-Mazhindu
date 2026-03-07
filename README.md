@@ -37,105 +37,7 @@ I have significant experience leading cloud, ML and AI initiatives for both ente
 
 ---
 
-## 🏆 Certifications & Specialties
 
-**Professional Certifications & Applied Learning**
-- ✅ **AWS Solutions Architect Associate**
-- ✅ **AWS AI/ML Specialty**
-- ✅ **Codebasics AI/ML Bootcamp (Hands-on Practice)**
-- ✅ **Python, Data Science, Machine Learning & AI – Embark School AI/ML Path**
-- ✅ **Python Full-Stack Developer – TreeHouse**
-  
-**Leadership, Governance & Professional Development**
-- ✅ **MLOps Foundations – Model Lifecycle, CI/CD, Monitoring**
-- ✅ **Build 100 Real-World Autonomous AI Agents (Practical Agentic AI Experience)**
-- ✅ **Chief AI Officer (CAIO) – AI Strategy, Ethics & Business Leadership (In Progress)**
-- ✅ **PMP - Project Management for Cloud & AI Initiatives**
-- ✅ **AI Governance & Security Frameworks:  (MLSecOps, NIST AI RMF, COBIT, ISO, NIST)**
-- ✅ **AI for everyone – DeepLearning(completed)**
-
-
-
-
-
----
-
-## 🛠️ Technical Expertise
-
-| Category | Key Skills & Technologies |
-| :--- | :--- |
-| **Cloud & DevOps** | AWS (SageMaker, EC2, S3, RDS, CloudFormation, CloudWatch), CI/CD, Terraform |
-| **AI/ML & Data Science** | Model Training/Deployment, NLP, Computer Vision, Predictive Analytics, Python, TensorFlow, PyTorch, Pandas, NumPy, SQL |
-| **Security & Compliance** | AWS Security, ISO 27001, NIST, COBIT Framework |
-| **Programming** | Python, SQL, JavaScript, HTML, CSS |
-| **Analytics & BI** | Power BI, SageMaker |
-| **Emerging Tech** | IoT Solutions, Cloud Adoption Strategies, Digital Transformation Consulting |
-
----
-
-## 🔭 Current Focus
-
-- 🌱 I'm currently learning **Advanced Cloud Architecture & AI/ML at Scale**
-- 👯 I'm looking to collaborate on **AI/ML & Cloud Infrastructure Projects**
-- 🤝 I'm looking for help with **Large-Scale Data Engineering**
-- 💬 Ask me about **AWS, AI/ML, Cloud Solutions, Python, Data Science**
-- 📫 How to reach me: **b.mazhindu@yahoo.com**
-- 📱 Phone: **+263 775 526 709**
-
----
-
-
-
-
-
-
-
-
-## ✨ Project Portfolio & Achievements
-
-### AWS Projects
-- 🏗️ **15+ hands-on cloud deployments** covering DevOps, ML/AI, and security solutions
-
-### Python & AI Projects
-- 🤖 **15+ automation, AI/ML, API integrations, and web applications**
-
-### Notable Achievements
-- 🏅 Appointed **Management Representative** for SAZ to implement ISO 9001 QMS
-- 🎯 Appointed **Technical Director** at PCG Tech division
-- 💼 **Co-founder and Director** of IS Systems Solutions
-- 🚀 Led digital transformation initiatives, integrating cybersecurity, AI, and IoT solutions
-
----
-
-
-
-## 🤝 Soft Skills & Leadership
-
-- 🎯 **Leadership** | Strategic Thinking
-- 📋 **Project Management** (Agile, Scrum)
-- 💬 **Communication & Stakeholder Management**
-- 🧩 **Problem Solving & Analytical Thinking**
-
----
-
-## 📚 Education
-
-- 🎓 **MBA - AI & Business Strategy** | Zimbabwe Open University (2022)
-- 🎓 **BSc Information Technology** | Midlands State University (2015)
-
----
-
-## 💡 Hobbies & Interests
-
-- 📖 Staying updated on AI, machine learning, and low-code/no-code development
-- 🏆 Participating in hackathons and tech community events
-- 👨‍🏫 Mentoring aspiring developers in AI/ML and cloud technologies
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 ....................................................................................................................
 <p align="center">
@@ -232,40 +134,83 @@ class BestMazhindu:
 
 ---
 
-## 🧠 Core Expertise
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <strong>🤖 ML Engineering</strong><br/>
-      <sub>End-to-end model design, training, validation, and deployment. Scikit-learn · TensorFlow · PyTorch · MLflow</sub>
-    </td>
-    <td align="center" width="200">
-      <strong>💬 NLP & LLM Systems</strong><br/>
-      <sub>BERT fine-tuning, LLM orchestration, RAG pipeline development. LangChain · Hugging Face · GPT-4</sub>
-    </td>
-    <td align="center" width="200">
-      <strong>👁️ Computer Vision</strong><br/>
-      <sub>Object detection, image classification, real-time video inference. YOLOv8 · OpenCV · TensorFlow</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <strong>☁️ AWS Cloud ML</strong><br/>
-      <sub>SageMaker · Lambda · ECS · EC2 · S3. AWS AI/ML Specialty Certified. ISO 27001 compliant architectures</sub>
-    </td>
-    <td align="center" width="200">
-      <strong>🔁 MLOps & Pipelines</strong><br/>
-      <sub>CI/CD for ML, Docker packaging, drift monitoring, automated ETL. MLflow · Airflow · GitHub Actions</sub>
-    </td>
-    <td align="center" width="200">
-      <strong>📊 Predictive Analytics</strong><br/>
-      <sub>Regression, classification, forecasting, segmentation. SHAP explainability. Measurable ROI delivery</sub>
-    </td>
-  </tr>
-</table>
 
 ---
+
+## 🛠️ Technical Expertise
+
+| Category | Key Skills & Technologies |
+| :--- | :--- |
+| **Cloud & DevOps** | AWS (SageMaker, EC2, S3, RDS, CloudFormation, CloudWatch), CI/CD, Terraform |
+| **AI/ML & Data Science** | Model Training/Deployment, NLP, Computer Vision, Predictive Analytics, Python, TensorFlow, PyTorch, Pandas, NumPy, SQL |
+| **Security & Compliance** | AWS Security, ISO 27001, NIST, COBIT Framework |
+| **Programming** | Python, SQL, JavaScript, HTML, CSS |
+| **Analytics & BI** | Power BI, SageMaker |
+| **Emerging Tech** | IoT Solutions, Cloud Adoption Strategies, Digital Transformation Consulting |
+
+---
+
+## 🔭 Current Focus
+
+- 🌱 I'm currently learning **Advanced Cloud Architecture & AI/ML at Scale**
+- 👯 I'm looking to collaborate on **AI/ML & Cloud Infrastructure Projects**
+- 🤝 I'm looking for help with **Large-Scale Data Engineering**
+- 💬 Ask me about **AWS, AI/ML, Cloud Solutions, Python, Data Science**
+- 📫 How to reach me: **b.mazhindu@yahoo.com**
+- 📱 Phone: **+263 775 526 709**
+
+---
+
+
+
+
+
+
+
+
+## ✨ Project Portfolio & Achievements
+
+### AWS Projects
+- 🏗️ **15+ hands-on cloud deployments** covering DevOps, ML/AI, and security solutions
+
+### Python & AI Projects
+- 🤖 **15+ automation, AI/ML, API integrations, and web applications**
+
+### Notable Achievements
+- 🏅 Appointed **Management Representative** for SAZ to implement ISO 9001 QMS
+- 🎯 Appointed **Technical Director** at PCG Tech division
+- 💼 **Co-founder and Director** of IS Systems Solutions
+- 🚀 Led digital transformation initiatives, integrating cybersecurity, AI, and IoT solutions
+
+---
+
+
+
+## 🤝 Soft Skills & Leadership
+
+- 🎯 **Leadership** | Strategic Thinking
+- 📋 **Project Management** (Agile, Scrum)
+- 💬 **Communication & Stakeholder Management**
+- 🧩 **Problem Solving & Analytical Thinking**
+
+---
+
+## 📚 Education
+
+- 🎓 **MBA - AI & Business Strategy** | Zimbabwe Open University (2022)
+- 🎓 **BSc Information Technology** | Midlands State University (2015)
+
+---
+
+## 💡 Hobbies & Interests
+
+- 📖 Staying updated on AI, machine learning, and low-code/no-code development
+- 🏆 Participating in hackathons and tech community events
+- 👨‍🏫 Mentoring aspiring developers in AI/ML and cloud technologies
+
+---
+
 
 ## 💻 Languages and Tools: 
 
@@ -394,9 +339,6 @@ ai_capabilities:
 ## 📊 GitHub Statistics
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=best-mazhindu&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" width="60%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=best-mazhindu&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35&hide_border=true" width="90%" />
