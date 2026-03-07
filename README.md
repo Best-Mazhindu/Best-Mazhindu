@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Location-Harare%2C%20Zimbabwe%20%E2%80%94%20Remote%20Ready-orange?style=flat" />
 </p>
 ---
-
+---
 ## ⚡ Professional Introduction
 
 > *"ML that ships to production > ML that only impresses."*
@@ -293,7 +293,6 @@ I'm actively open to:
 
 
 <p align="center">
-
 📍 **Location:** Harare, Zimbabwe 🌍 — *Remote Ready*
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
