@@ -261,10 +261,8 @@ I'm actively open to:
 
 
 ---
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-## 🌐 Connect with me<br>
-
-
 
 <a href="https://bestmazhindu.com" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="portfolio" height="30" width="40"/>
@@ -289,9 +287,11 @@ I'm actively open to:
 </p>
 
 
-<h3 align="center">📍 **Location:** Harare, Zimbabwe 🌍 — *Remote Ready*</h3>
+
 
 <p align="center">
+
+📍 **Location:** Harare, Zimbabwe 🌍 — *Remote Ready*
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 </p>
