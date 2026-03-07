@@ -444,3 +444,370 @@ I'm actively open to:
   <img src="https://img.shields.io/badge/Powered%20by-AWS%20%7C%20LangChain%20%7C%20PyTorch-orange?style=flat-square" />
 </p>
 
+..........................................................................................................................
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Best%20Mazhindu&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20AWS%20AI%2FML%20Certified%20%E2%80%A2%20Python%20Developer&descAlignY=62&descAlign=50&descSize=16" width="100%" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&height=40&lines=Building+production+ML+systems+since+2016;NLP+%E2%80%A2+Computer+Vision+%E2%80%A2+LLM+Systems+%E2%80%A2+RAG+Pipelines;AWS+AI%2FML+Specialty+%E2%80%A2+MBA+%E2%80%A2+7%2B+Years;50%2B+AI+systems+delivered+%E2%80%94+30%25+avg+cost+reduction;Open+to+Senior+%2F+Lead+AI%2FML+Roles+globally)](https://bestmazhindu.com)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/bestmazhindu.com-0f0c29?style=flat-square&logo=safari&logoColor=A78BFA)](https://bestmazhindu.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/best-mazhindu)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:best@bestmazhindu.com)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/263775526709)&nbsp;
+[![Location](https://img.shields.io/badge/Harare%2C%20Zimbabwe-Remote%20Ready-F59E0B?style=flat-square)](https://bestmazhindu.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=best-mazhindu&label=Profile+Views&color=A78BFA&style=flat)&nbsp;
+![Open To](https://img.shields.io/badge/Open%20To-Senior%20%7C%20Lead%20AI%2FML%20Roles-22C55E?style=flat)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-AI%2FML%20Specialty%20Certified-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## Who I am
+
+I'm an AI/ML engineer who has spent 7+ years building machine learning systems that **actually ship to production**. Not Jupyter notebooks. Not PoCs. End-to-end systems: data pipelines, trained models, containerised APIs, cloud infrastructure, monitoring — the full stack.
+
+I hold an **MBA in AI & Business Strategy** and the **AWS AI/ML Specialty certification** — which means I can design the architecture and explain the ROI in the same conversation. My work spans **NLP & LLMs**, **predictive analytics**, **computer vision**, and **generative AI / RAG systems**, all deployed on AWS.
+
+Verified outcomes across 50+ engagements: **~30% average operational cost reduction**, **40% faster data pipelines**, and 99.9% uptime on production ML inference APIs.
+
+📍 Harare, Zimbabwe — working remotely with teams worldwide.
+
+---
+
+## How I think about ML engineering
+
+```python
+class BestMazhindu:
+    """
+    Senior AI/ML Engineer | Python Developer | AWS Specialist
+    Building ML systems that work beyond the notebook.
+    """
+
+    def __init__(self):
+        self.name            = "Best Mazhindu"
+        self.role            = "AI/ML Engineer & Python Developer"
+        self.location        = "Harare, Zimbabwe 🇿🇼  (Remote-Ready 🌍)"
+        self.experience      = "7+ years in production ML engineering"
+        self.education       = ["MBA — AI & Business Strategy (ZOU)",
+                                "BSc Information Technology (MSU) — 21 Distinctions"]
+        self.certifications  = ["AWS AI/ML Specialty ☁️",
+                                "Stanford ML Specialization",
+                                "Python Meta Full-Stack",
+                                "PMP — Project Management",
+                                "DeepLearning.AI"]
+        self.specializations = ["NLP & Transformer Models",
+                                "Predictive Analytics",
+                                "Computer Vision",
+                                "LLM Systems & RAG Pipelines",
+                                "MLOps & Cloud Deployment",
+                                "Automated Data Pipelines"]
+        self.stack           = ["Python", "TensorFlow", "PyTorch", "LangChain",
+                                "AWS SageMaker", "Docker", "FastAPI", "MLflow"]
+        self.impact          = {
+            "projects_delivered": "50+",
+            "cost_reduction":     "~30% avg. client savings",
+            "pipeline_speedup":   "40% faster data processing",
+            "uptime":             "99.9% on production ML APIs"
+        }
+        self.philosophy      = "Build ML systems that perform reliably in production."
+        self.vision          = "Advance AI adoption across Africa and beyond."
+        self.open_to         = "Senior AI/ML Engineer · Lead ML Engineer · Principal ML Roles"
+
+    def engineer(self, problem):
+        data  = self.collect_and_clean(problem)        # Python ETL pipelines
+        model = self.train_and_validate(data)          # SageMaker / MLflow
+        api   = self.containerize_and_deploy(model)    # Docker → AWS Lambda / ECS
+        return api.serve_predictions()                 # Production-grade ML 🚀
+```
+
+---
+
+## AI Capabilities
+
+```yaml
+nlp_and_llms:
+  - BERT & transformer fine-tuning (Hugging Face)
+  - LLM orchestration with LangChain
+  - RAG pipeline development (semantic chunking + vector retrieval)
+  - Sentiment analysis & Named Entity Recognition
+  - Text classification & semantic search
+  - Enterprise chatbots (GPT-4 + Pinecone integration)
+
+predictive_analytics:
+  - Regression, classification, time-series forecasting
+  - Customer churn prediction & segmentation
+  - Demand forecasting (Prophet + LSTM hybrid)
+  - SHAP-based model explainability
+  - A/B testing & statistical analysis
+
+computer_vision:
+  - Object detection (YOLOv8) — 98.2% accuracy in production
+  - Real-time video inference pipelines
+  - Image classification & feature extraction
+
+mlops_and_deployment:
+  - End-to-end AWS SageMaker pipelines
+  - Docker containerisation & ECR packaging
+  - Lambda serverless inference APIs
+  - CloudWatch monitoring + drift detection
+  - CI/CD-triggered model redeployment
+  - 40% faster ETL pipelines built & deployed
+
+data_engineering:
+  - Python ETL/ELT pipelines with automated validation
+  - S3 data lakes + Kinesis streaming
+  - Feature stores & ML-ready data architecture
+  - SQL + NoSQL data modelling
+```
+
+---
+
+## Technology Stack
+
+**AI / ML**&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**LLMs & GenAI**&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+
+**Data Engineering**&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Cloud & MLOps**&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**APIs & Backend**&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+---
+
+## Selected Projects
+
+**`NLP Fraud Detection Engine`** — BERT · Flask · AWS Lambda
+> Real-time financial transaction classification. 94% detection accuracy at 40ms inference latency in production.
+
+**`Enterprise RAG Chatbot`** — LangChain · GPT-4 · Pinecone · MS Teams
+> Retrieval-augmented generation over a corporate SharePoint knowledge base. Deployed into Microsoft Teams at enterprise scale.
+
+**`Inventory Vision System`** — YOLOv8 · OpenCV · Stock API
+> Real-time shelf tracking for a retail chain. 98.2% object detection accuracy on live video feeds.
+
+**`Customer Churn Predictor`** — XGBoost · SHAP · AWS SageMaker
+> Churn prediction with SHAP explainability for a telecoms client. Delivered 23% reduction in customer churn within 6 months.
+
+**`Time-Series Demand Forecast`** — Prophet · LSTM · AWS
+> Hybrid forecasting model for multi-SKU supply chain. Reduced overstock inventory by 18% for a logistics client.
+
+**`AWS MLOps Pipeline`** — SageMaker · Docker · CloudWatch · GitHub Actions
+> End-to-end CI/CD for ML — automated training, packaging, deployment, and drift monitoring.
+
+**`Social Sentiment Tracker`** — spaCy · Transformers · Kinesis
+> Real-time social media sentiment and topic modelling pipeline streaming live on AWS.
+
+**`Healthcare Analytics Platform`** — Django · React · ML risk scoring
+> Full-stack clinical analytics platform with ML-powered patient risk models, integrated with hospital EHR systems.
+
+**`MVPV Blockchain-AI Platform`** — Blockchain · ML anomaly detection
+> Lead researcher on AI verification layer architecture for smart contract validation and anomaly detection.
+
+**`Automated ML Deployment Platform`** — Flask · Docker · AWS CI/CD
+> MLOps serving infrastructure with automated ETL, drift monitoring, and CI/CD-triggered redeployment. 40% faster delivery cycle.
+
+---
+
+## Industries Served
+
+**Banking & Finance** — fraud detection, credit scoring, churn prediction
+**Healthcare** — patient risk scoring, clinical analytics, EHR integration
+**Retail** — demand forecasting, inventory computer vision, customer segmentation
+**Logistics** — supply chain optimisation, time-series demand planning
+**Telecoms** — churn modelling (23% reduction delivered in production)
+**Government / Standards** — ISO 9001 digital QMS, compliance automation (SAZ Zimbabwe)
+**Technology Startups** — ML MVPs, AI-powered product features, cloud architecture
+**Agriculture** — predictive modelling for yield and resource planning
+
+---
+
+## Production ML Pipeline
+
+```
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │             END-TO-END AWS ML SYSTEM ARCHITECTURE                     │
+  └────────────────────────────────────────────────────────────────────────┘
+
+  DATA                   EXPERIMENTATION            TRAINING
+  ┌──────────────┐        ┌──────────────────┐       ┌──────────────────┐
+  │  Raw Sources │─ETL──▶ │  MLflow Tracking │ ────▶ │  SageMaker       │
+  │  S3 / Kinesis│        │  Jupyter / DVC   │       │  Distributed HPO │
+  └──────────────┘        └──────────────────┘       └────────┬─────────┘
+                                                              │
+  PACKAGING              REGISTRY                  CI/CD      │
+  ┌──────────┐           ┌──────────────────┐    ┌────────────▼─────────┐
+  │  Docker  │──ECR────▶ │  MLflow Registry │◀── │  GitHub Actions      │
+  └──────────┘           └──────────────────┘    └────────────┬─────────┘
+                                                              │
+  SERVING                                                     │
+  ┌───────────────────────────────────────────────────────────▼────────┐
+  │  Lambda (serverless)          ECS + API Gateway (high-traffic)     │
+  │  FastAPI inference API        Auto-scaling · Load balanced         │
+  └───────────────────────────────────────────────────┬────────────────┘
+                                                      │
+  MONITORING                                          │
+  ┌───────────────────────────────────────────────────▼────────────────┐
+  │  CloudWatch · Drift Detection · NIST AI RMF · ISO 27001 Compliant  │
+  └────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=best-mazhindu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=best-mazhindu&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=best-mazhindu&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA" width="55%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=best-mazhindu&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=A78BFA&point=F59E0B&hide_border=true&area=true" width="88%" />
+</div>
+
+---
+
+## Professional Experience
+
+**AI/ML Engineer & Technology Consultant · Technical Director**
+Poshi Creative (PCG Holdings) · Harare, Zimbabwe · *2021 – Present*
+
+- Engineered AI/ML solutions — NLP, predictive analytics, computer vision — delivering ~30% cost reduction and 25% productivity gains across client engagements
+- Architected and deployed AWS ML infrastructure (SageMaker, EC2, S3, Lambda, ECS) with ISO 27001 and NIST AI RMF compliance
+- Implemented ISO 9001-compliant digital QMS on SharePoint, establishing ML governance and compliance processes
+- Formally appointed Technical Director of the PCG Holdings AI & Technology division — owning ML strategy, architecture decisions, and delivery oversight
+
+**Python Developer & AI/ML Engineer · Co-founder**
+IS Systems Solutions · Harare, Zimbabwe · *Oct 2016 – Dec 2020*
+
+- Engineered production predictive analytics and NLP models for banking, retail, and logistics clients
+- Containerised and deployed ML models via Flask REST APIs and Docker in live production environments
+- Designed Python-based ETL pipelines with automated validation — reducing processing time by 40%
+- Co-founded and grew IS Systems Solutions into a Python & AI/ML engineering consultancy
+
+---
+
+## Education
+
+**MBA — AI & Business Strategy** · Zimbabwe Open University · 2022
+
+**BSc Information Technology** · Midlands State University · 2015 · *21 Academic Distinctions*
+
+---
+
+## Certifications
+
+**Professional Certifications**
+- ✅ AWS AI/ML Specialty · Amazon Web Services
+- ✅ Machine Learning Specialization · Stanford University / Coursera
+- ✅ Python Meta Full-Stack Developer · Meta / Coursera
+- ✅ PMP — Project Management
+- ✅ DeepLearning.AI
+- ✅ Python, HTML, JavaScript · Treehouse
+- ✅ Python — AI & Data Science · Embark School
+
+**Leadership, Governance & MLOps**
+- ✅ AI Governance & Security — MLSecOps · NIST AI RMF · ISO 27001
+- ✅ ISO 9001 Management Representative · Standards Association of Zimbabwe
+- ✅ MLOps Foundations — Model Lifecycle · CI/CD · Monitoring & Drift Detection
+- ✅ Build 100 Real-World AI Agents — Agentic AI & LLM Tool Use
+- 🔄 Chief AI Officer (CAIO) — AI Strategy · Ethics · Business Leadership *(In Progress)*
+- 🔄 AI Engineering Bootcamp · Codebasics *(In Progress)*
+
+---
+
+## Career Vision
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                        THE MISSION                              ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  Short-term   →  Senior / Lead AI/ML Engineer (Global)          ║
+║  Mid-term     →  PhD Research: Trustworthy AI / LLM Alignment   ║
+║  Long-term    →  AI Research Scientist at global institutions    ║
+║  Ultimate     →  Found an AI Research Centre in Zimbabwe 🏛️      ║
+║                                                                  ║
+║  MISSION:  Advance responsible AI adoption across Africa         ║
+║            and build intelligent systems that deliver            ║
+║            verifiable, lasting impact at scale.                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+Africa's unique challenges require African-built AI solutions. My goal is not just to use AI — it's to build the infrastructure, institutions, and talent pipelines that make Africa a **global AI contributor**, not just a consumer of systems built elsewhere.
+
+---
+
+## Open to Collaboration
+
+- **ML Research** — LLM alignment, trustworthy AI, robustness in production systems
+- **AI Consulting** — production ML systems, NLP, cloud AI architecture
+- **Startup Partnerships** — AI-powered product development and MVP delivery
+- **Open Source** — ML tooling, African AI datasets, responsible AI projects
+- **AI Education** — workshops, mentoring, community building in Zimbabwe & Africa
+
+> Got a hard data problem? Let's engineer the solution. → [best@bestmazhindu.com](mailto:best@bestmazhindu.com)
+
+---
+
+## Connect
+
+[bestmazhindu.com](https://bestmazhindu.com) &nbsp;·&nbsp;
+[linkedin.com/in/best-mazhindu](https://linkedin.com/in/best-mazhindu) &nbsp;·&nbsp;
+[github.com/best-mazhindu](https://github.com/best-mazhindu) &nbsp;·&nbsp;
+[best@bestmazhindu.com](mailto:best@bestmazhindu.com) &nbsp;·&nbsp;
+[+263 77 5 526 709](https://wa.me/263775526709) &nbsp;·&nbsp;
+📍 Harare, Zimbabwe — Remote Ready
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+  <br/>
+  <em>"The best way to predict the future is to engineer it."</em>
+  <br/><br/>
+  <sub>Best Mazhindu · AI/ML Engineer · Harare, Zimbabwe 🇿🇼</sub>
+</div>
+
