@@ -261,10 +261,10 @@ I'm actively open to:
 
 
 ---
-
-## 🌐 Connect with me
-
 <p align="center">
+## 🌐 Connect with me<br>
+
+
 
 <a href="https://bestmazhindu.com" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="portfolio" height="30" width="40"/>
