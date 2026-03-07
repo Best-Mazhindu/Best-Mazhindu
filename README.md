@@ -513,24 +513,41 @@ I'm actively open to:
 
 > Got a hard data problem? Let's engineer the solution.
 
----
 
-## 📬 Contact
 
-<p align="center">
 
-| Channel | Details |
-|---|---|
-| 🌐 **Website** | [bestmazhindu.com](https://bestmazhindu.com) |
-| 📧 **Email** | [best@bestmazhindu.com](mailto:best@bestmazhindu.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/best-mazhindu](https://linkedin.com/in/best-mazhindu) |
-| 💻 **GitHub** | [github.com/best-mazhindu](https://github.com/best-mazhindu) |
-| 📱 **WhatsApp** | [+263 77 5 526 709](https://wa.me/263775526709) |
-| 📍 **Location** | Harare, Zimbabwe — Remote Ready 🌍 |
+## 🌐 Connect with me
+
+<p align="left">
+
+<a href="https://bestmazhindu.com" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="portfolio" height="30" width="40"/>
+</a>
+
+<a href="https://linkedin.com/in/best-mazhindu" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="best-mazhindu-linkedin" height="30" width="40"/>
+</a>
+
+<a href="https://github.com/best-mazhindu" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="best-mazhindu-github" height="30" width="40"/>
+</a>
+
+<a href="mailto:best@bestmazhindu.com" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40"/>
+</a>
+
+<a href="https://wa.me/263775526709" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="whatsapp" height="30" width="40"/>
+</a>
 
 </p>
 
----
+📍 **Location:** Harare, Zimbabwe 🌍 — *Remote Ready*
+
+
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
