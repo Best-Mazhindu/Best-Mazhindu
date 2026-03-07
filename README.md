@@ -1,15 +1,6 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Best%20Mazhindu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20AWS%20AI%2FML%20Certified%20%E2%80%A2%20Python%20Developer&descAlignY=58&descAlign=50" width="100%" />
-</p>
-
-<p align="center">
-    <img src="https://github.com/Best-Mazhindu/Best-Mazhindu/blob/main/profile-image.jpeg" alt="Best Mazhindu" width="200"/>
-</p>
-
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Best%20Mazhindu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20AWS%20AI%2FML%20Certified%20%E2%80%A2%20Python%20Developer&descAlignY=58&descAlign=50" width="100%" />
 </p>
 
@@ -108,26 +99,9 @@ class BestMazhindu:
 ```
 
 ---
-
-
+Techstack ...
 
 ---
-
-## 🛠️ Technical Expertise
-
-| Category | Key Skills & Technologies |
-| :--- | :--- |
-| **Cloud & DevOps** | AWS (SageMaker, EC2, S3, RDS, CloudFormation, CloudWatch), CI/CD, Terraform |
-| **AI/ML & Data Science** | Model Training/Deployment, NLP, Computer Vision, Predictive Analytics, Python, TensorFlow, PyTorch, Pandas, NumPy, SQL |
-| **Security & Compliance** | AWS Security, ISO 27001, NIST, COBIT Framework |
-| **Programming** | Python, SQL, JavaScript, HTML, CSS |
-| **Analytics & BI** | Power BI, SageMaker |
-| **Emerging Tech** | IoT Solutions, Cloud Adoption Strategies, Digital Transformation Consulting 
-
-
-
-
-ystem at a time.*
 
 <br/>
 
@@ -216,49 +190,65 @@ ai_capabilities:
 ```
 
 ---
+---
 
-## 🏭 Industries Served
+## Technology Stack
 
-| Industry | AI Application |
-|---|---|
-| 🏦 **Banking & Finance** | Fraud detection, credit scoring, churn prediction |
-| 🏥 **Healthcare** | Patient risk scoring, clinical analytics platforms |
-| 🛒 **Retail** | Demand forecasting, inventory vision systems |
-| 🚚 **Logistics** | Supply chain optimisation, time-series demand forecast |
-| 🏛️ **Government / Standards** | ISO 9001 digital QMS, compliance automation |
-| 🏗️ **Technology Startups** | ML MVPs, AI-powered product features |
-| 🌾 **Agriculture** | Predictive modelling for yield and resource planning |
-| 📡 **Telecoms** | Churn prediction (23% churn reduction delivered) |
+**AI / ML**&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**LLMs & GenAI**&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+
+**Data Engineering**&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Cloud & MLOps**&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**APIs & Backend**&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
-## 🗂️ Selected Projects
+## Selected Projects
 
-| # | Project | Domain | Stack | Impact |
-|---|---|---|---|---|
-| 01 | **NLP Fraud Detection Engine** | FinTech / NLP | BERT · Flask · AWS Lambda | 94% accuracy · 40ms inference |
-| 02 | **Enterprise RAG Chatbot** | GenAI / LLM | LangChain · GPT-4 · Pinecone · Teams | Enterprise Q&A at scale |
-| 03 | **Inventory Vision System** | Computer Vision | YOLOv8 · OpenCV · Stock API | 98.2% detection accuracy |
-| 04 | **Customer Churn Predictor** | Predictive Analytics | XGBoost · SHAP · AWS | 23% churn reduction |
-| 05 | **AWS MLOps Pipeline** | MLOps / Cloud | SageMaker · Docker · CloudWatch | Full CI/CD model lifecycle |
-| 06 | **Time-Series Demand Forecast** | Data Science | Prophet · LSTM · AWS | 18% overstock reduction |
-| 07 | **Social Sentiment Tracker** | NLP / Streaming | spaCy · Transformers · Kinesis | Real-time brand monitoring |
-| 08 | **Healthcare Analytics Platform** | Healthcare | Django · React · ML risk scoring | Live EHR integration |
-| 09 | **MVPV Blockchain-AI Platform** | Research / AI | Blockchain · ML anomaly detection | Novel AI verification layer |
-| 10 | **Automated ML Deployment Platform** | MLOps | Flask · Docker · AWS CI/CD | 40% faster pipeline delivery |
+**`NLP Fraud Detection Engine`** — BERT · Flask · AWS Lambda <br>
+**`Enterprise RAG Chatbot`** — LangChain · GPT-4 · Pinecone · MS Teams <br>
+**`Inventory Vision System`** — YOLOv8 · OpenCV · Stock API <br>
+**`Customer Churn Predictor`** — XGBoost · SHAP · AWS SageMaker <br>
+**`Time-Series Demand Forecast`** — Prophet · LSTM · AWS <br>
+**`AWS MLOps Pipeline`** — SageMaker · Docker · CloudWatch · GitHub Actions <br>
+**`Social Sentiment Tracker`** — spaCy · Transformers · Kinesis <br>
+**`Healthcare Analytics Platform`** — Django · React · ML risk scoring <br>
+**`MVPV Blockchain-AI Platform`** — Blockchain · ML anomaly detection <br>
+**`Automated ML Deployment Platform`** — Flask · Docker · AWS CI/CD <br>
 
-
-
-## 📊 GitHub Statistics
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=best-mazhindu&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35&hide_border=true" width="90%" />
-</p>
 
 ---
 
+
+---
 
 
 ## 🏆 Certifications & Specialties
@@ -296,27 +286,6 @@ ai_capabilities:
 
 
 
-
-
-## 🌍 Career Vision
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    THE MISSION                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  Short-term   →  Senior / Lead AI/ML Engineer (Global)          ║
-║  Mid-term     →  PhD Research: Trustworthy AI / LLM Alignment   ║
-║  Long-term    →  AI Research Scientist at global institutions   ║
-║  Ultimate     →  Found an AI Research Centre in Zimbabwe 🏛️      ║
-║                                                                  ║
-║  MISSION:  Advance responsible AI adoption across Africa        ║
-║            and build intelligent systems that deliver           ║
-║            verifiable, lasting impact at scale.                 ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-I believe Africa's unique challenges require **African-built AI solutions**. My goal is not just to use AI — it's to build the infrastructure, institutions, and talent pipelines that make Africa a **global AI contributor**, not just a consumer.
 
 ---
 
@@ -509,64 +478,7 @@ data_engineering:
   - SQL + NoSQL data modelling
 ```
 
----
 
-## Technology Stack
-
-**AI / ML**&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-**LLMs & GenAI**&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-
-**Data Engineering**&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Cloud & MLOps**&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**APIs & Backend**&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
----
-
-## Selected Projects
-
-**`NLP Fraud Detection Engine`** — BERT · Flask · AWS Lambda
-**`Enterprise RAG Chatbot`** — LangChain · GPT-4 · Pinecone · MS Teams
-**`Inventory Vision System`** — YOLOv8 · OpenCV · Stock API
-**`Customer Churn Predictor`** — XGBoost · SHAP · AWS SageMaker
-**`Time-Series Demand Forecast`** — Prophet · LSTM · AWS
-**`AWS MLOps Pipeline`** — SageMaker · Docker · CloudWatch · GitHub Actions
-**`Social Sentiment Tracker`** — spaCy · Transformers · Kinesis
-**`Healthcare Analytics Platform`** — Django · React · ML risk scoring
-**`MVPV Blockchain-AI Platform`** — Blockchain · ML anomaly detection
-**`Automated ML Deployment Platform`** — Flask · Docker · AWS CI/CD
-
-
----
-
----
 
 ## GitHub Statistics
 
@@ -593,27 +505,6 @@ IS Systems Solutions · Harare, Zimbabwe · *Oct 2016 – Dec 2020*
 - Designed Python-based ETL pipelines with automated validation — reducing processing time by 40%
 - Co-founded and grew IS Systems Solutions into a Python & AI/ML engineering consultancy
 
-## Career Vision
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                        THE MISSION                              ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  Short-term   →  Senior / Lead AI/ML Engineer (Global)          ║
-║  Mid-term     →  PhD Research: Trustworthy AI / LLM Alignment   ║
-║  Long-term    →  AI Research Scientist at global institutions    ║
-║  Ultimate     →  Found an AI Research Centre in Zimbabwe 🏛️      ║
-║                                                                  ║
-║  MISSION:  Advance responsible AI adoption across Africa         ║
-║            and build intelligent systems that deliver            ║
-║            verifiable, lasting impact at scale.                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-Africa's unique challenges require African-built AI solutions. My goal is not just to use AI — it's to build the infrastructure, institutions, and talent pipelines that make Africa a **global AI contributor**, not just a consumer of systems built elsewhere.
-
----
 
 ## Open to Collaboration
 
@@ -627,7 +518,6 @@ Africa's unique challenges require African-built AI solutions. My goal is not ju
 
 ---
 
-```
 ──────────────────────────────────────────────────────────────────────────────────
   🚀  →  🎓  →  🔬  →  🏛️  →  🌍
   NOW     2026    2028    2030    2033+
