@@ -29,56 +29,6 @@
   <img src="https://img.shields.io/badge/Open%20To-Senior%20%7C%20Lead%20AI%2FML%20Roles-brightgreen?style=flat" />
   <img src="https://img.shields.io/badge/Location-Harare%2C%20Zimbabwe%20%E2%80%94%20Remote%20Ready-orange?style=flat" />
 </p>
-
----
-
-<div align="center">
-
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a3a4a,100:00d4aa&height=200&section=header&text=Best%20Mazhindu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20AI%20%26%20Data%20Science%20Engineer&descSize=20&descAlignY=58&descColor=00d4aa&animation=fadeIn"/>
-
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Fullstack+AI+%26+Data+Scientist+%F0%9F%A4%96;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;NLP+%7C+Computer+Vision+%7C+MLOps+%F0%9F%9A%80;7%2B+Years+%7C+50%2B+Production+Systems+%F0%9F%8F%86;Open+to+Senior+%26+Lead+Roles+%F0%9F%8C+)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bestmazhindu.com-00d4aa?style=for-the-badge&labelColor=0a1628)](https://bestmazhindu.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-best--mazhindu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/best-mazhindu)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:best@bestmazhindu.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B263_77_5_526_709-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263775526709)
-
-<br/>
-
-<!-- Stats Row -->
-![](https://img.shields.io/badge/Projects-50%2B_Delivered-00d4aa?style=flat-square&labelColor=0a1628)
-![](https://img.shields.io/badge/Experience-7%2B_Years-00d4aa?style=flat-square&labelColor=0a1628)
-![](https://img.shields.io/badge/Cost_Reduction-30%25_Average-00d4aa?style=flat-square&labelColor=0a1628)
-![](https://img.shields.io/badge/Certifications-8%2B_Professional-00d4aa?style=flat-square&labelColor=0a1628)
-![](https://img.shields.io/badge/Location-Harare%2C_Zimbabwe-00d4aa?style=flat-square&labelColor=0a1628)
-
-</div>
-
----
-
-
-
-
-
-[![Portfolio](https://img.shields.io/badge/bestmazhindu.com-0f0c29?style=flat-square&logo=safari&logoColor=A78BFA)](https://bestmazhindu.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/best-mazhindu)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:best@bestmazhindu.com)&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/263775526709)&nbsp;
-[![Location](https://img.shields.io/badge/Harare%2C%20Zimbabwe-Remote%20Ready-F59E0B?style=flat-square)](https://bestmazhindu.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=best-mazhindu&label=Profile+Views&color=A78BFA&style=flat)&nbsp;
-![Open To](https://img.shields.io/badge/Open%20To-Senior%20%7C%20Lead%20AI%2FML%20Roles-22C55E?style=flat)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-AI%2FML%20Specialty%20Certified-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
-</div>
-
 ---
 
 ## ⚡ Professional Introduction
