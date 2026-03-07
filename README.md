@@ -264,52 +264,7 @@ ai_capabilities:
 | 09 | **MVPV Blockchain-AI Platform** | Research / AI | Blockchain · ML anomaly detection | Novel AI verification layer |
 | 10 | **Automated ML Deployment Platform** | MLOps | Flask · Docker · AWS CI/CD | 40% faster pipeline delivery |
 
----
 
-## 🏗️ Production AI System Architecture
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║              PRODUCTION ML SYSTEM — AWS ARCHITECTURE                ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  ┌─────────────┐    ┌─────────────┐    ┌─────────────────────────┐  ║
-║  │   Raw Data  │───▶│  Python ETL │───▶│   S3 Data Lake          │  ║
-║  │  Sources    │    │  Pipelines  │    │   (Feature Store)       │  ║
-║  └─────────────┘    └─────────────┘    └────────────┬────────────┘  ║
-║                                                     │               ║
-║                          ┌──────────────────────────▼────────────┐  ║
-║                          │       AWS SAGEMAKER                   │  ║
-║                          │  ┌───────────┐   ┌──────────────────┐ │  ║
-║                          │  │ Experiment │   │  Distributed     │ │  ║
-║                          │  │ Tracking  │   │  Model Training  │ │  ║
-║                          │  │ (MLflow)  │   │  + HPO           │ │  ║
-║                          │  └───────────┘   └────────┬─────────┘ │  ║
-║                          └───────────────────────────┼───────────┘  ║
-║                                                      │               ║
-║  ┌──────────────────────────────────────────────────▼────────────┐  ║
-║  │                     PACKAGING & REGISTRY                      │  ║
-║  │         Docker Container  ──▶  ECR  ──▶  MLflow Registry      │  ║
-║  └──────────────────────────────────┬────────────────────────────┘  ║
-║                                     │                               ║
-║  ┌──────────────────────────────────▼────────────────────────────┐  ║
-║  │                 CI/CD DEPLOYMENT (GitHub Actions)             │  ║
-║  │   ┌──────────────────┐         ┌─────────────────────────┐   │  ║
-║  │   │  Lambda (light)  │         │  ECS + API Gateway      │   │  ║
-║  │   │  Serverless API  │         │  FastAPI Inference API  │   │  ║
-║  │   └──────────────────┘         └─────────────────────────┘   │  ║
-║  └──────────────────────────────────┬────────────────────────────┘  ║
-║                                     │                               ║
-║  ┌──────────────────────────────────▼────────────────────────────┐  ║
-║  │              MONITORING & GOVERNANCE                          │  ║
-║  │  CloudWatch Metrics │ Drift Detection │ NIST AI RMF Aligned   │  ║
-║  │  Auto-scaling       │ Alerts          │ ISO 27001 Compliant   │  ║
-║  └───────────────────────────────────────────────────────────────┘  ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
----
 
 ## 📊 GitHub Statistics
 
@@ -615,93 +570,22 @@ data_engineering:
 ## Selected Projects
 
 **`NLP Fraud Detection Engine`** — BERT · Flask · AWS Lambda
-> Real-time financial transaction classification. 94% detection accuracy at 40ms inference latency in production.
-
 **`Enterprise RAG Chatbot`** — LangChain · GPT-4 · Pinecone · MS Teams
-> Retrieval-augmented generation over a corporate SharePoint knowledge base. Deployed into Microsoft Teams at enterprise scale.
-
 **`Inventory Vision System`** — YOLOv8 · OpenCV · Stock API
-> Real-time shelf tracking for a retail chain. 98.2% object detection accuracy on live video feeds.
-
 **`Customer Churn Predictor`** — XGBoost · SHAP · AWS SageMaker
-> Churn prediction with SHAP explainability for a telecoms client. Delivered 23% reduction in customer churn within 6 months.
-
 **`Time-Series Demand Forecast`** — Prophet · LSTM · AWS
-> Hybrid forecasting model for multi-SKU supply chain. Reduced overstock inventory by 18% for a logistics client.
-
 **`AWS MLOps Pipeline`** — SageMaker · Docker · CloudWatch · GitHub Actions
-> End-to-end CI/CD for ML — automated training, packaging, deployment, and drift monitoring.
-
 **`Social Sentiment Tracker`** — spaCy · Transformers · Kinesis
-> Real-time social media sentiment and topic modelling pipeline streaming live on AWS.
-
 **`Healthcare Analytics Platform`** — Django · React · ML risk scoring
-> Full-stack clinical analytics platform with ML-powered patient risk models, integrated with hospital EHR systems.
-
 **`MVPV Blockchain-AI Platform`** — Blockchain · ML anomaly detection
-> Lead researcher on AI verification layer architecture for smart contract validation and anomaly detection.
-
 **`Automated ML Deployment Platform`** — Flask · Docker · AWS CI/CD
-> MLOps serving infrastructure with automated ETL, drift monitoring, and CI/CD-triggered redeployment. 40% faster delivery cycle.
+
 
 ---
-
-## Industries Served
-
-**Banking & Finance** — fraud detection, credit scoring, churn prediction
-**Healthcare** — patient risk scoring, clinical analytics, EHR integration
-**Retail** — demand forecasting, inventory computer vision, customer segmentation
-**Logistics** — supply chain optimisation, time-series demand planning
-**Telecoms** — churn modelling (23% reduction delivered in production)
-**Government / Standards** — ISO 9001 digital QMS, compliance automation (SAZ Zimbabwe)
-**Technology Startups** — ML MVPs, AI-powered product features, cloud architecture
-**Agriculture** — predictive modelling for yield and resource planning
-
----
-
-## Production ML Pipeline
-
-```
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │             END-TO-END AWS ML SYSTEM ARCHITECTURE                     │
-  └────────────────────────────────────────────────────────────────────────┘
-
-  DATA                   EXPERIMENTATION            TRAINING
-  ┌──────────────┐        ┌──────────────────┐       ┌──────────────────┐
-  │  Raw Sources │─ETL──▶ │  MLflow Tracking │ ────▶ │  SageMaker       │
-  │  S3 / Kinesis│        │  Jupyter / DVC   │       │  Distributed HPO │
-  └──────────────┘        └──────────────────┘       └────────┬─────────┘
-                                                              │
-  PACKAGING              REGISTRY                  CI/CD      │
-  ┌──────────┐           ┌──────────────────┐    ┌────────────▼─────────┐
-  │  Docker  │──ECR────▶ │  MLflow Registry │◀── │  GitHub Actions      │
-  └──────────┘           └──────────────────┘    └────────────┬─────────┘
-                                                              │
-  SERVING                                                     │
-  ┌───────────────────────────────────────────────────────────▼────────┐
-  │  Lambda (serverless)          ECS + API Gateway (high-traffic)     │
-  │  FastAPI inference API        Auto-scaling · Load balanced         │
-  └───────────────────────────────────────────────────┬────────────────┘
-                                                      │
-  MONITORING                                          │
-  ┌───────────────────────────────────────────────────▼────────────────┐
-  │  CloudWatch · Drift Detection · NIST AI RMF · ISO 27001 Compliant  │
-  └────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
 ## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=best-mazhindu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=best-mazhindu&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=best-mazhindu&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA" width="55%" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=best-mazhindu&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=A78BFA&point=F59E0B&hide_border=true&area=true" width="88%" />
@@ -711,11 +595,10 @@ data_engineering:
 
 ## Professional Experience
 
-**AI/ML Engineer & Technology Consultant · Technical Director**
+**AI/ML Engineer & Technology Consultant **
 Poshi Creative (PCG Holdings) · Harare, Zimbabwe · *2021 – Present*
 
 - Engineered AI/ML solutions — NLP, predictive analytics, computer vision — delivering ~30% cost reduction and 25% productivity gains across client engagements
-- Architected and deployed AWS ML infrastructure (SageMaker, EC2, S3, Lambda, ECS) with ISO 27001 and NIST AI RMF compliance
 - Implemented ISO 9001-compliant digital QMS on SharePoint, establishing ML governance and compliance processes
 - Formally appointed Technical Director of the PCG Holdings AI & Technology division — owning ML strategy, architecture decisions, and delivery oversight
 
@@ -726,37 +609,6 @@ IS Systems Solutions · Harare, Zimbabwe · *Oct 2016 – Dec 2020*
 - Containerised and deployed ML models via Flask REST APIs and Docker in live production environments
 - Designed Python-based ETL pipelines with automated validation — reducing processing time by 40%
 - Co-founded and grew IS Systems Solutions into a Python & AI/ML engineering consultancy
-
----
-
-## Education
-
-**MBA — AI & Business Strategy** · Zimbabwe Open University · 2022
-
-**BSc Information Technology** · Midlands State University · 2015 · *21 Academic Distinctions*
-
----
-
-## Certifications
-
-**Professional Certifications**
-- ✅ AWS AI/ML Specialty · Amazon Web Services
-- ✅ Machine Learning Specialization · Stanford University / Coursera
-- ✅ Python Meta Full-Stack Developer · Meta / Coursera
-- ✅ PMP — Project Management
-- ✅ DeepLearning.AI
-- ✅ Python, HTML, JavaScript · Treehouse
-- ✅ Python — AI & Data Science · Embark School
-
-**Leadership, Governance & MLOps**
-- ✅ AI Governance & Security — MLSecOps · NIST AI RMF · ISO 27001
-- ✅ ISO 9001 Management Representative · Standards Association of Zimbabwe
-- ✅ MLOps Foundations — Model Lifecycle · CI/CD · Monitoring & Drift Detection
-- ✅ Build 100 Real-World AI Agents — Agentic AI & LLM Tool Use
-- 🔄 Chief AI Officer (CAIO) — AI Strategy · Ethics · Business Leadership *(In Progress)*
-- 🔄 AI Engineering Bootcamp · Codebasics *(In Progress)*
-
----
 
 ## Career Vision
 
@@ -792,14 +644,64 @@ Africa's unique challenges require African-built AI solutions. My goal is not ju
 
 ---
 
-## Connect
+```
+──────────────────────────────────────────────────────────────────────────────────
+  🚀  →  🎓  →  🔬  →  🏛️  →  🌍
+  NOW     2026    2028    2030    2033+
+──────────────────────────────────────────────────────────────────────────────────
+```
 
-[bestmazhindu.com](https://bestmazhindu.com) &nbsp;·&nbsp;
-[linkedin.com/in/best-mazhindu](https://linkedin.com/in/best-mazhindu) &nbsp;·&nbsp;
-[github.com/best-mazhindu](https://github.com/best-mazhindu) &nbsp;·&nbsp;
-[best@bestmazhindu.com](mailto:best@bestmazhindu.com) &nbsp;·&nbsp;
-[+263 77 5 526 709](https://wa.me/263775526709) &nbsp;·&nbsp;
-📍 Harare, Zimbabwe — Remote Ready
+<br/>
+
+**`🚀  NOW — 2025`** &nbsp;·&nbsp; Senior / Lead AI/ML Engineer — Global
+```
+  Role      →  Senior AI/ML Engineer · Lead ML Engineer · Principal ML Roles
+  Status    →  Active · Remote-ready · Available globally
+  Standing  →  7+ years production ML · AWS AI/ML Certified · 50+ systems delivered
+```
+
+---
+
+**`🎓  NEXT — 2026`** &nbsp;·&nbsp; PhD Research — Trustworthy AI & LLM Alignment
+```
+  Focus     →  Trustworthy AI · LLM alignment · AI robustness in production systems
+  Why       →  Bridging 7+ years of industry ML engineering with rigorous research
+  Goal      →  Become a Research Scientist who has shipped systems, not just papers
+```
+
+---
+
+**`🔬  MID — 2028`** &nbsp;·&nbsp; AI Research Scientist
+```
+  Output    →  Published research · Global institutional collaborations
+  Focus     →  AI systems that are safe, fair, and impactful at scale
+  Bridge    →  Production experience + academic rigour = rare research profile
+```
+
+---
+
+**`🏛️  LEGACY — 2030`** &nbsp;·&nbsp; Found an AI Research Centre — Zimbabwe
+```
+  Mission   →  A hub for African AI innovation
+  Purpose   →  Train the next generation of African AI researchers
+  Impact    →  Solve uniquely African problems with world-class AI
+```
+
+---
+
+**`🌍  DREAM — 2033+`** &nbsp;·&nbsp; Global AI Innovation Leader
+```
+  Scale     →  Systems that reshape entire industries
+  Bridge    →  Close the AI gap between developed and developing nations
+  Legacy    →  Lasting mark on how humanity builds intelligent systems
+```
+
+<br/>
+
+> Africa's unique challenges require **African-built AI solutions**.
+> The goal is not just to use AI — it's to build the **infrastructure, institutions,
+> and talent pipelines** that make Africa a global AI contributor, not just a consumer.
+
 
 ---
 
