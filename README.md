@@ -1,3 +1,37 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Best%20Mazhindu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20AWS%20AI%2FML%20Certified%20%E2%80%A2%20Python%20Developer&descAlignY=58&descAlign=50" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://bestmazhindu.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-bestmazhindu.com-0A66C2?style=for-the-badge&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/best-mazhindu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-best--mazhindu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:best@bestmazhindu.com">
+    <img src="https://img.shields.io/badge/Email-best%40bestmazhindu.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/263775526709" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B263%2077%205%20526%20709-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=AI%2FML+Engineer+%7C+7%2B+Years+in+Production+ML;LLM+Systems+%7C+RAG+Pipelines+%7C+MLOps;NLP+%7C+Computer+Vision+%7C+Predictive+Analytics;AWS+AI%2FML+Specialty+Certified+%7C+MBA;Building+AI+Systems+That+Deliver+Real+ROI" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=best-mazhindu&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Open%20To-Senior%20%7C%20Lead%20AI%2FML%20Roles-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Location-Harare%2C%20Zimbabwe%20%E2%80%94%20Remote%20Ready-orange?style=flat" />
+</p>
+
+---
+
 <div align="center">
 
 <!-- Animated Header Banner -->
