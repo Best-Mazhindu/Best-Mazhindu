@@ -46,7 +46,8 @@ My work spans the full ML lifecycle: **predictive analytics**, **NLP solutions**
 ---
 ## Professional Experience
 
-**AI/ML Engineer & Technology Consultant **
+
+**AI/ML Engineer & Technology Consultant**
 Poshi Creative (PCG Holdings) · Harare, Zimbabwe · *2021 – Present*
 
 - Engineered AI/ML solutions — NLP, predictive analytics, computer vision — delivering ~30% cost reduction and 25% productivity gains across client engagements
