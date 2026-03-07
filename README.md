@@ -57,7 +57,7 @@ IS Systems Solutions · Harare, Zimbabwe · *Oct 2016 – Dec 2020*
 - Designed Python-based ETL pipelines with automated validation — reducing processing time by 40%
 - Co-founded and grew IS Systems Solutions into a Python & AI/ML engineering consultancy
 ---
----
+
 
 ## Technology Stack
 
@@ -282,7 +282,19 @@ data_engineering:
 ---
 
 
+## 🤝 Open to Collaboration
 
+I'm actively open to:
+
+- 🔬 **ML Research** — LLM alignment, trustworthy AI, robustness in production systems
+- 💼 **AI Consulting** — production ML systems, NLP, cloud AI architecture
+- 🚀 **Startup Partnerships** — AI-powered product development and MVP delivery
+- 🌍 **Open Source** — ML tooling, African AI datasets, responsible AI projects
+- 🎓 **AI Education** — workshops, mentoring, community building in Zimbabwe & Africa
+
+> Got a hard data problem? Let's engineer the solution.
+
+---
 <br/>
 
 | 🚀 **2025 · NOW** | &nbsp;›&nbsp; | 🎓 **2026 · NEXT** | &nbsp;›&nbsp; | 🔬 **2028 · MID** | &nbsp;›&nbsp; | 🏛️ **2030 · LEGACY** | &nbsp;›&nbsp; | 🌍 **2033+ · DREAM** |
@@ -296,29 +308,6 @@ data_engineering:
 
 > Africa's unique challenges require **African-built AI solutions**. The goal is not just to use AI —
 > it's to build the **infrastructure, institutions, and talent pipelines** that make Africa a global AI contributor, not just a consumer.
-
-## Open to Collaboration
-
-- **ML Research** — LLM alignment, trustworthy AI, robustness in production systems
-- **AI Consulting** — production ML systems, NLP, cloud AI architecture
-- **Startup Partnerships** — AI-powered product development and MVP delivery
-- **Open Source** — ML tooling, African AI datasets, responsible AI projects
-- **AI Education** — workshops, mentoring, community building in Zimbabwe & Africa
-
-
----
-
-## 🤝 Open to Collaboration
-
-I'm actively open to:
-
-- 🔬 **ML Research** — LLM alignment, trustworthy AI, robustness in production systems
-- 💼 **AI Consulting** — production ML systems, NLP, cloud AI architecture
-- 🚀 **Startup Partnerships** — AI-powered product development and MVP delivery
-- 🌍 **Open Source** — ML tooling, African AI datasets, responsible AI projects
-- 🎓 **AI Education** — workshops, mentoring, community building in Zimbabwe & Africa
-
-> Got a hard data problem? Let's engineer the solution.
 
 
 ---
