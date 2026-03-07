@@ -10,33 +10,22 @@
        style="border-radius:50%; margin-top:-80px; border:5px solid white;" />
 </p>
 
-<p align="center">
-  <a href="https://bestmazhindu.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-bestmazhindu.com-0A66C2?style=for-the-badge&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/best-mazhindu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-best--mazhindu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:best@bestmazhindu.com">
-    <img src="https://img.shields.io/badge/Email-best%40bestmazhindu.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/263775526709" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B263%2077%205%20526%20709-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=AI%2FML+Engineer+%7C+7%2B+Years+in+Production+ML;LLM+Systems+%7C+RAG+Pipelines+%7C+MLOps;NLP+%7C+Computer+Vision+%7C+Predictive+Analytics;AWS+AI%2FML+Specialty+Certified+%7C+MBA;Building+AI+Systems+That+Deliver+Real+ROI" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=best-mazhindu&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Open%20To-Senior%20%7C%20Lead%20AI%2FML%20Roles-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Location-Harare%2C%20Zimbabwe%20%E2%80%94%20Remote%20Ready-orange?style=flat" />
-</p>
+
+[![Portfolio](https://img.shields.io/badge/bestmazhindu.com-0f0c29?style=flat-square&logo=safari&logoColor=A78BFA)](https://bestmazhindu.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/best-mazhindu)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:best@bestmazhindu.com)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/263775526709)&nbsp;
+[![Location](https://img.shields.io/badge/Harare%2C%20Zimbabwe-Remote%20Ready-F59E0B?style=flat-square)](https://bestmazhindu.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=best-mazhindu&label=Profile+Views&color=A78BFA&style=flat)&nbsp;
+![Open To](https://img.shields.io/badge/Open%20To-Senior%20%7C%20Lead%20AI%2FML%20Roles-22C55E?style=flat)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-AI%2FML%20Specialty%20Certified-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+
+</div>
 
 ---
 
@@ -155,6 +144,22 @@ class BestMazhindu:
 
 ---
 
+## 🤝 Soft Skills & Leadership
+
+- 🎯 **Leadership** | Strategic Thinking
+- 📋 **Project Management** (Agile, Scrum)
+- 💬 **Communication & Stakeholder Management**
+- 🧩 **Problem Solving & Analytical Thinking**
+
+
+---
+
+
+## 💻 Languages and Tools: 
+
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> </p>
+---
+
 <br/>
 
 | 🚀 **2025 · NOW** | &nbsp;›&nbsp; | 🎓 **2026 · NEXT** | &nbsp;›&nbsp; | 🔬 **2028 · MID** | &nbsp;›&nbsp; | 🏛️ **2030 · LEGACY** | &nbsp;›&nbsp; | 🌍 **2033+ · DREAM** |
@@ -181,69 +186,6 @@ class BestMazhindu:
 - 💼 **Co-founder and Director** of IS Systems Solutions
 - 🚀 Led digital transformation initiatives, integrating cybersecurity, AI, and IoT solutions
 
----
-
-
-
-## 🤝 Soft Skills & Leadership
-
-- 🎯 **Leadership** | Strategic Thinking
-- 📋 **Project Management** (Agile, Scrum)
-- 💬 **Communication & Stakeholder Management**
-- 🧩 **Problem Solving & Analytical Thinking**
-
-
----
-
-
-## 💻 Languages and Tools: 
-
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> </p>
----
-
-## 🚀 AI Capabilities
-
-```yaml
-ai_capabilities:
-
-  nlp_and_llms:
-    - BERT & transformer fine-tuning (Hugging Face)
-    - LLM orchestration with LangChain
-    - RAG pipeline development (semantic chunking + vector retrieval)
-    - Sentiment analysis & Named Entity Recognition
-    - Text classification & semantic search
-    - Enterprise chatbots (GPT-4 + Pinecone integration)
-
-  predictive_analytics:
-    - Regression, classification, time-series forecasting
-    - Customer churn prediction & segmentation
-    - Demand forecasting (Prophet + LSTM hybrid)
-    - SHAP-based model explainability
-    - A/B testing & statistical analysis
-
-  computer_vision:
-    - Object detection (YOLOv8) — 98.2% accuracy in production
-    - Real-time video inference pipelines
-    - Image classification & feature extraction
-
-  mlops_and_deployment:
-    - End-to-end AWS SageMaker pipelines
-    - Docker containerisation & ECR packaging
-    - Lambda serverless inference APIs
-    - CloudWatch monitoring + drift detection
-    - CI/CD-triggered model redeployment
-    - 40% faster ETL pipelines built & deployed
-
-  data_engineering:
-    - Python ETL/ELT pipelines with automated validation
-    - S3 data lakes + Kinesis streaming
-    - Feature stores & ML-ready data architecture
-    - SQL + NoSQL data modelling
-```
-
----
----
-
 
 ---
 
@@ -259,10 +201,6 @@ ai_capabilities:
 **`Healthcare Analytics Platform`** — Django · React · ML risk scoring <br>
 **`MVPV Blockchain-AI Platform`** — Blockchain · ML anomaly detection <br>
 **`Automated ML Deployment Platform`** — Flask · Docker · AWS CI/CD <br>
-
-
----
-
 
 ---
 
@@ -318,7 +256,7 @@ I'm actively open to:
 > Got a hard data problem? Let's engineer the solution.
 
 
-
+---
 
 ## 🌐 Connect with me
 
@@ -367,46 +305,9 @@ I'm actively open to:
   <img src="https://img.shields.io/badge/Powered%20by-AWS%20%7C%20LangChain%20%7C%20PyTorch-orange?style=flat-square" />
 </p>
 
-..........................................................................................................................
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Best%20Mazhindu&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20AWS%20AI%2FML%20Certified%20%E2%80%A2%20Python%20Developer&descAlignY=62&descAlign=50&descSize=16" width="100%" />
 
-<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&height=40&lines=Building+production+ML+systems+since+2016;NLP+%E2%80%A2+Computer+Vision+%E2%80%A2+LLM+Systems+%E2%80%A2+RAG+Pipelines;AWS+AI%2FML+Specialty+%E2%80%A2+MBA+%E2%80%A2+7%2B+Years;50%2B+AI+systems+delivered+%E2%80%94+30%25+avg+cost+reduction;Open+to+Senior+%2F+Lead+AI%2FML+Roles+globally)](https://bestmazhindu.com)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/bestmazhindu.com-0f0c29?style=flat-square&logo=safari&logoColor=A78BFA)](https://bestmazhindu.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/best-mazhindu)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:best@bestmazhindu.com)&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/263775526709)&nbsp;
-[![Location](https://img.shields.io/badge/Harare%2C%20Zimbabwe-Remote%20Ready-F59E0B?style=flat-square)](https://bestmazhindu.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=best-mazhindu&label=Profile+Views&color=A78BFA&style=flat)&nbsp;
-![Open To](https://img.shields.io/badge/Open%20To-Senior%20%7C%20Lead%20AI%2FML%20Roles-22C55E?style=flat)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-AI%2FML%20Specialty%20Certified-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-## Who I am
-
-I'm an AI/ML engineer who has spent 7+ years building machine learning systems that **actually ship to production**. Not Jupyter notebooks. Not PoCs. End-to-end systems: data pipelines, trained models, containerised APIs, cloud infrastructure, monitoring — the full stack.
-
-I hold an **MBA in AI & Business Strategy** and the **AWS AI/ML Specialty certification** — which means I can design the architecture and explain the ROI in the same conversation. My work spans **NLP & LLMs**, **predictive analytics**, **computer vision**, and **generative AI / RAG systems**, all deployed on AWS.
-
-Verified outcomes across 50+ engagements: **~30% average operational cost reduction**, **40% faster data pipelines**, and 99.9% uptime on production ML inference APIs.
-
-📍 Harare, Zimbabwe — working remotely with teams worldwide.
-
----
 
 ## How I think about ML engineering
 
