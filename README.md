@@ -57,52 +57,6 @@ IS Systems Solutions · Harare, Zimbabwe · *Oct 2016 – Dec 2020*
 - Designed Python-based ETL pipelines with automated validation — reducing processing time by 40%
 - Co-founded and grew IS Systems Solutions into a Python & AI/ML engineering consultancy
 ---
-## 🧬 About Best
-
-```python
-class BestMazhindu:
-    """
-    Senior AI/ML Engineer | Python Developer | AWS Specialist
-    Building ML systems that work beyond the notebook.
-    """
-
-    def __init__(self):
-        self.name            = "Best Mazhindu"
-        self.role            = "AI/ML Engineer & Python Developer"
-        self.location        = "Harare, Zimbabwe 🇿🇼  (Remote-Ready 🌍)"
-        self.experience      = "7+ years in production ML engineering"
-        self.education       = ["MBA — AI & Business Strategy (ZOU)",
-                                "BSc Information Technology (MSU) — 21 Distinctions"]
-        self.certifications  = ["AWS AI/ML Specialty ☁️",
-                                "Stanford ML Specialization",
-                                "Python Meta Full-Stack",
-                                "PMP — Project Management",
-                                "DeepLearning.AI"]
-        self.specializations = ["NLP & Transformer Models",
-                                "Predictive Analytics",
-                                "Computer Vision",
-                                "LLM Systems & RAG Pipelines",
-                                "MLOps & Cloud Deployment",
-                                "Automated Data Pipelines"]
-        self.stack           = ["Python", "TensorFlow", "PyTorch", "LangChain",
-                                "AWS SageMaker", "Docker", "FastAPI", "MLflow"]
-        self.impact          = {
-            "projects_delivered": "50+",
-            "cost_reduction":     "~30% avg. client savings",
-            "pipeline_speedup":   "40% faster data processing",
-            "uptime":             "99.9% on production ML APIs"
-        }
-        self.philosophy      = "Build ML systems that perform reliably in production."
-        self.vision          = "Advance AI adoption across Africa and beyond."
-        self.open_to         = "Senior AI/ML Engineer · Lead ML Engineer · Principal ML Roles"
-
-    def engineer(self, problem):
-        data  = self.collect_and_clean(problem)          # Python ETL pipelines
-        model = self.train_and_validate(data)            # SageMaker / MLflow
-        api   = self.containerize_and_deploy(model)      # Docker → AWS Lambda / ECS
-        return api.serve_predictions()                   # Production-grade ML 🚀
-```
-
 ---
 
 ## Technology Stack
@@ -160,19 +114,6 @@ class BestMazhindu:
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> </p>
 ---
 
-<br/>
-
-| 🚀 **2025 · NOW** | &nbsp;›&nbsp; | 🎓 **2026 · NEXT** | &nbsp;›&nbsp; | 🔬 **2028 · MID** | &nbsp;›&nbsp; | 🏛️ **2030 · LEGACY** | &nbsp;›&nbsp; | 🌍 **2033+ · DREAM** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| `● ACTIVE` | | `○ PLANNED` | | `○ VISION` | | `○ VISION` | | `○ DREAM` |
-| Senior / Lead | | PhD Research | | AI Research | | AI Research | | Global AI |
-| AI/ML Engineer | | Trustworthy AI | | Scientist | | Centre · Zimbabwe | | Innovation Leader |
-| *Global · Remote* | | *LLM Alignment* | | *Global Institutions* | | *African AI Hub* | | *Worldwide Impact* |
-
-<br/>
-
-> Africa's unique challenges require **African-built AI solutions**. The goal is not just to use AI —
-> it's to build the **infrastructure, institutions, and talent pipelines** that make Africa a global AI contributor, not just a consumer.
 
 
 ## ✨ Project Portfolio & Achievements
@@ -208,19 +149,19 @@ class BestMazhindu:
 ## 🏆 Certifications & Specialties
 
 **Professional Certifications & Applied Learning**
-- ✅ **AWS Solutions Architect Associate**
-- ✅ **AWS AI/ML Specialty**
-- ✅ **Codebasics AI/ML Bootcamp (Hands-on Practice)**
-- ✅ **Python, Data Science, Machine Learning & AI – Embark School AI/ML Path**
-- ✅ **Python Full-Stack Developer – TreeHouse**
+- ✅ AWS Solutions Architect Associate**
+- ✅ AWS AI/ML Specialty**
+- ✅ Codebasics AI/ML Bootcamp (Hands-on Practice)**
+- ✅ Python, Data Science, Machine Learning & AI – Embark School AI/ML Path**
+- ✅ Python Full-Stack Developer – TreeHouse**
   
 **Leadership, Governance & Professional Development**
-- ✅ **MLOps Foundations – Model Lifecycle, CI/CD, Monitoring**
-- ✅ **Build 100 Real-World Autonomous AI Agents (Practical Agentic AI Experience)**
-- ✅ **Chief AI Officer (CAIO) – AI Strategy, Ethics & Business Leadership (In Progress)**
-- ✅ **PMP - Project Management for Cloud & AI Initiatives**
-- ✅ **AI Governance & Security Frameworks:  (MLSecOps, NIST AI RMF, COBIT, ISO, NIST)**
-- ✅ **AI for everyone – DeepLearning(completed)**
+- ✅ MLOps Foundations – Model Lifecycle, CI/CD, Monitoring**
+- ✅ Build 100 Real-World Autonomous AI Agents (Practical Agentic AI Experience)**
+- ✅ Chief AI Officer (CAIO) – AI Strategy, Ethics & Business Leadership (In Progress)**
+- ✅ PMP - Project Management for Cloud & AI Initiatives**
+- ✅ AI Governance & Security Frameworks:  (MLSecOps, NIST AI RMF, COBIT, ISO, NIST)**
+- ✅ AI for everyone – DeepLearning(completed)**
 
 
 ---
@@ -239,71 +180,6 @@ class BestMazhindu:
 - 👨‍🏫 Mentoring aspiring developers in AI/ML and cloud technologies
 
 
-
-
----
-
-## 🤝 Open to Collaboration
-
-I'm actively open to:
-
-- 🔬 **ML Research** — LLM alignment, trustworthy AI, robustness in production systems
-- 💼 **AI Consulting** — production ML systems, NLP, cloud AI architecture
-- 🚀 **Startup Partnerships** — AI-powered product development and MVP delivery
-- 🌍 **Open Source** — ML tooling, African AI datasets, responsible AI projects
-- 🎓 **AI Education** — workshops, mentoring, community building in Zimbabwe & Africa
-
-> Got a hard data problem? Let's engineer the solution.
-
-
----
-
-## 🌐 Connect with me
-
-<p align="center">
-
-<a href="https://bestmazhindu.com" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="portfolio" height="30" width="40"/>
-</a>
-
-<a href="https://linkedin.com/in/best-mazhindu" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="best-mazhindu-linkedin" height="30" width="40"/>
-</a>
-
-<a href="https://github.com/best-mazhindu" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="best-mazhindu-github" height="30" width="40"/>
-</a>
-
-<a href="mailto:best@bestmazhindu.com" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40"/>
-</a>
-
-<a href="https://wa.me/263775526709" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="whatsapp" height="30" width="40"/>
-</a>
-
-</p>
-
-📍 **Location:** Harare, Zimbabwe 🌍 — *Remote Ready*
-
-
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <em>"The best way to predict the future is to engineer it."</em><br/>
-  <sub>— Best Mazhindu, AI/ML Engineer · Harare, Zimbabwe 🇿🇼</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20Python-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Powered%20by-AWS%20%7C%20LangChain%20%7C%20PyTorch-orange?style=flat-square" />
-</p>
 
 
 
@@ -407,6 +283,19 @@ data_engineering:
 
 
 
+<br/>
+
+| 🚀 **2025 · NOW** | &nbsp;›&nbsp; | 🎓 **2026 · NEXT** | &nbsp;›&nbsp; | 🔬 **2028 · MID** | &nbsp;›&nbsp; | 🏛️ **2030 · LEGACY** | &nbsp;›&nbsp; | 🌍 **2033+ · DREAM** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `● ACTIVE` | | `○ PLANNED` | | `○ VISION` | | `○ VISION` | | `○ DREAM` |
+| Senior / Lead | | PhD Research | | AI Research | | AI Research | | Global AI |
+| AI/ML Engineer | | Trustworthy AI | | Scientist | | Centre · Zimbabwe | | Innovation Leader |
+| *Global · Remote* | | *LLM Alignment* | | *Global Institutions* | | *African AI Hub* | | *Worldwide Impact* |
+
+<br/>
+
+> Africa's unique challenges require **African-built AI solutions**. The goal is not just to use AI —
+> it's to build the **infrastructure, institutions, and talent pipelines** that make Africa a global AI contributor, not just a consumer.
 
 ## Open to Collaboration
 
@@ -415,5 +304,70 @@ data_engineering:
 - **Startup Partnerships** — AI-powered product development and MVP delivery
 - **Open Source** — ML tooling, African AI datasets, responsible AI projects
 - **AI Education** — workshops, mentoring, community building in Zimbabwe & Africa
+
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm actively open to:
+
+- 🔬 **ML Research** — LLM alignment, trustworthy AI, robustness in production systems
+- 💼 **AI Consulting** — production ML systems, NLP, cloud AI architecture
+- 🚀 **Startup Partnerships** — AI-powered product development and MVP delivery
+- 🌍 **Open Source** — ML tooling, African AI datasets, responsible AI projects
+- 🎓 **AI Education** — workshops, mentoring, community building in Zimbabwe & Africa
+
+> Got a hard data problem? Let's engineer the solution.
+
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+
+<a href="https://bestmazhindu.com" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="portfolio" height="30" width="40"/>
+</a>
+
+<a href="https://linkedin.com/in/best-mazhindu" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="best-mazhindu-linkedin" height="30" width="40"/>
+</a>
+
+<a href="https://github.com/best-mazhindu" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="best-mazhindu-github" height="30" width="40"/>
+</a>
+
+<a href="mailto:best@bestmazhindu.com" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40"/>
+</a>
+
+<a href="https://wa.me/263775526709" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="whatsapp" height="30" width="40"/>
+</a>
+
+</p>
+
+📍 **Location:** Harare, Zimbabwe 🌍 — *Remote Ready*
+
+
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <em>"The best way to predict the future is to engineer it."</em><br/>
+  <sub>— Best Mazhindu, AI/ML Engineer · Harare, Zimbabwe 🇿🇼</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20Python-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Powered%20by-AWS%20%7C%20LangChain%20%7C%20PyTorch-orange?style=flat-square" />
+</p>
 
 
