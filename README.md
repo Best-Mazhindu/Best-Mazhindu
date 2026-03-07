@@ -144,3 +144,285 @@ I have significant experience leading cloud, ML and AI initiatives for both ente
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+....................................................................................................................
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a3a4a,100:00d4aa&height=200&section=header&text=Best%20Mazhindu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20AI%20%26%20Data%20Science%20Engineer&descSize=20&descAlignY=58&descColor=00d4aa&animation=fadeIn"/>
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Fullstack+AI+%26+Data+Scientist+%F0%9F%A4%96;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;NLP+%7C+Computer+Vision+%7C+MLOps+%F0%9F%9A%80;7%2B+Years+%7C+50%2B+Production+Systems+%F0%9F%8F%86;Open+to+Senior+%26+Lead+Roles+%F0%9F%8C+)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bestmazhindu.com-00d4aa?style=for-the-badge&labelColor=0a1628)](https://bestmazhindu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-best--mazhindu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/best-mazhindu)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:best@bestmazhindu.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B263_77_5_526_709-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263775526709)
+
+<br/>
+
+<!-- Stats Row -->
+![](https://img.shields.io/badge/Projects-50%2B_Delivered-00d4aa?style=flat-square&labelColor=0a1628)
+![](https://img.shields.io/badge/Experience-7%2B_Years-00d4aa?style=flat-square&labelColor=0a1628)
+![](https://img.shields.io/badge/Cost_Reduction-30%25_Average-00d4aa?style=flat-square&labelColor=0a1628)
+![](https://img.shields.io/badge/Certifications-8%2B_Professional-00d4aa?style=flat-square&labelColor=0a1628)
+![](https://img.shields.io/badge/Location-Harare%2C_Zimbabwe-00d4aa?style=flat-square&labelColor=0a1628)
+
+</div>
+
+---
+
+## 👤 About Me
+
+```python
+class BestMazhindu:
+    def __init__(self):
+        self.role       = "Fullstack AI & Data Scientist"
+        self.location   = "Harare, Zimbabwe 🇿🇼 (Remote-Ready)"
+        self.education  = ["MBA – AI Strategy & Management", "BSc Information Technology (21 Distinctions)"]
+        self.stack      = ["Python", "TensorFlow", "PyTorch", "LangChain", "AWS", "Docker", "FastAPI"]
+        self.certs      = ["AWS Solutions Architect", "AWS AI/ML Specialty", "PMP", "TensorFlow Dev"]
+        self.philosophy = "AI that ships > AI that impresses"
+        self.available  = True  # Open to Senior & Lead Roles
+
+    def build(self, problem):
+        data    = self.collect_and_clean(problem)   # End-to-end data engineering
+        model   = self.experiment_and_train(data)   # Rigorous experimentation
+        return    self.deploy_to_production(model)  # Production-grade deployment
+```
+
+> *"I bridge the gap between cutting-edge AI research and practical business solutions — delivering measurable results like 30% cost reductions, 40% speed improvements, and systems that actually work in production."*
+
+---
+
+## 🧠 Skills & Tech Stack
+
+<div align="center">
+
+### AI / ML Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### ☁️ Cloud & MLOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+### 🌐 Web & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Proficiency Overview
+
+| Domain | Proficiency | Level |
+|--------|-------------|-------|
+| 🐍 Python & Data Science | `████████████████████░` | 95% |
+| 🤖 Machine Learning | `███████████████████░░` | 93% |
+| 💬 NLP & LLMs | `██████████████████░░░` | 89% |
+| ☁️ AWS Cloud | `██████████████████░░░` | 90% |
+| 🧬 Deep Learning | `██████████████████░░░` | 90% |
+| 🤖 GenAI & RAG | `████████████████████░` | 88% |
+| ⚙️ MLOps & DevOps | `█████████████████░░░░` | 87% |
+| 🌐 Web Development | `████████████████░░░░░` | 82% |
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Domain | Stack | Highlights |
+|---------|--------|-------|------------|
+| 🔍 **NLP Fraud Detection Engine** | NLP / FinTech | BERT, AWS Lambda, FastAPI | 94% accuracy · 40ms inference |
+| 🤖 **Enterprise RAG Chatbot** | GenAI | LangChain, GPT-4, SharePoint | Corporate KB · Teams integration |
+| 👁️ **Inventory Vision System** | Computer Vision | YOLO, TensorFlow, AWS | 98.2% detection · Retail-deployed |
+| 📊 **Social Sentiment Tracker** | NLP / Real-time | BERT, AWS Kinesis, Kafka | 10k tweets/min pipeline |
+| ☁️ **AWS ML Pipeline** | MLOps / Cloud | SageMaker, CloudFormation, ECS | A/B testing · Auto-scaling |
+| 📦 **MLflow Registry Platform** | MLOps | MLflow, Docker, GitHub Actions | Drift detection · Auto-rollback |
+| 📉 **Customer Churn Predictor** | Data Science | XGBoost, SHAP, Django | -23% churn · Telecom client |
+| 📈 **Time-Series Demand Forecast** | Data Science | Prophet, LSTM, FastAPI | -18% overstock · Logistics |
+| 🏥 **Healthcare Analytics Platform** | Full-Stack | Django, React, ML APIs | Patient risk scoring · EHR-integrated |
+| 🔗 **MVPV Blockchain & AI Platform** | Research | Blockchain, AI, Smart Contracts | AI verification layer research |
+
+</div>
+
+---
+
+## 🏗️ Production ML Pipeline
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                       BEST'S ML PRODUCTION PIPELINE                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+  📥 DATA           🔬 EXPERIMENT      🏋 TRAIN          📦 PACKAGE
+  INGESTION    →    & VALIDATE    →    & OPTIMIZE    →    & REGISTER
+  ─────────         ──────────────     ──────────         ────────────
+  S3 Buckets        MLflow Tracking    SageMaker          Docker + ECR
+  Kinesis           Jupyter Notebooks  Distributed GPU    Model Registry
+  ETL Pipelines     A/B Test Design    Hyperparameter     Version Control
+                                       Tuning
+
+       ↓
+  🚀 DEPLOY         📡 MONITOR         🔄 RETRAIN
+  & SERVE      →    & OBSERVE     →    & IMPROVE
+  ──────────         ─────────         ──────────
+  Lambda/ECS         CloudWatch        Drift Detection
+  API Gateway        Grafana           Auto-trigger
+  Auto-scaling       Alerting          CI/CD Pipeline
+  99.9% Uptime       Data Drift
+```
+
+---
+
+## 🏅 Certifications & Education
+
+<div align="center">
+
+| Badge | Credential | Issuer |
+|-------|-----------|--------|
+| ☁️ | **AWS Solutions Architect – Associate** | Amazon Web Services |
+| 🤖 | **AWS AI/ML Specialty** | Amazon Web Services |
+| 📋 | **PMP – Project Management Professional** | PMI |
+| 🐍 | **Python Full-Stack Developer** | TreeHouse |
+| 🧪 | **Codebasics AI/ML Bootcamp** | Codebasics |
+| 🔒 | **AI Governance & Security** | MLSecOps · NIST AI RMF |
+| 🎓 | **MBA – AI & Business Strategy** | Zimbabwe Open University |
+| 🎓 | **BSc Information Technology** | Midlands State University *(21 Distinctions)* |
+| 👔 | **Chief AI Officer (CAIO)** | *In Progress* |
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+```
+🏢 PCG Holdings · Harare, Zimbabwe
+├── 🤖  AI & Data Scientist Lead           2022 – Present
+│   ├── Deployed 12+ ML models → 50k+ daily requests @ 99.9% uptime
+│   ├── NLP doc processing → 70% reduction in manual review time
+│   ├── AWS cloud migration → 30% cost reduction & 40% performance uplift
+│   ├── Mentored 4 junior data scientists in ML & AWS best practices
+│   └── Developed AI strategy roadmap adopted across 3 group companies
+│
+└── 💻  Full Stack Web Developer            2020 – 2022
+    ├── Built 6 Django/React apps used by 500+ employees
+    ├── Designed PostgreSQL schemas → 2M+ monthly transactions
+    └── CI/CD with GitHub Actions → deployment time: 2 days → 2 hours
+
+💻 Intelli-sys · Harare, Zimbabwe
+└── ⚙️  Software Engineer & Data Analyst    2018 – 2020
+    ├── Analytics dashboards for 15+ clients (banking, retail, healthcare)
+    ├── ETL pipelines processing 500k+ records/day
+    └── Customer segmentation → +35% marketing ROI
+
+🏛️ Standards Association of Zimbabwe (SAZ)
+└── 🖥️  IT Manager & QMS Representative     2016 – 2018
+    ├── IT infrastructure for 200+ staff across 4 locations
+    ├── Led ISO 9001 QMS digital implementation on SharePoint
+    └── Reduced support tickets by 45%
+```
+
+---
+
+## 🗺️ Career Journey
+
+```
+2013 ──── 2015 ──── 2018 ──── 2020 ──── 2022 ──── 2025 ──── 2026+
+  │          │         │         │         │         │          │
+🎓 BSc    🐍 Python  ⚙️ SAZ     🌐 PCG   🤖 AI     🌟 AI     🎓 PhD
+ IT@MSU  Engineer  IT Mgr    Fullstack  Lead    Leader    Target
+          Intelli-  @SAZ      @PCG      @PCG   Trainer   Research
+           sys                          Holdings         Scientist
+```
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=best-mazhindu&show_icons=true&theme=dark&bg_color=0a1628&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&text_color=ffffff&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=best-mazhindu&layout=compact&theme=dark&bg_color=0a1628&border_color=00d4aa&title_color=00d4aa&text_color=ffffff"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=best-mazhindu&theme=dark&background=0a1628&border=00d4aa&ring=00d4aa&fire=ff6b35&currStreakLabel=00d4aa&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌍 Impact & Reach
+
+<div align="center">
+
+```
+┌────────────────┬────────────────┬────────────────┬────────────────┐
+│   50+ Projects │   30% Avg Cost │  99.9% Uptime  │  8+ Certs      │
+│   Built &      │   Reduction    │  Production    │  Professional  │
+│   Deployed     │   Achieved     │  Systems       │  Credentials   │
+├────────────────┼────────────────┼────────────────┼────────────────┤
+│   40% Speed    │   7+ Years     │  500+ Users    │  15+ Clients   │
+│   Improvement  │   Experience   │  Daily Active  │  Served Across │
+│   Delivered    │   Industry     │  Enterprise    │  Industries    │
+└────────────────┴────────────────┴────────────────┴────────────────┘
+```
+
+**Industries Served:** Banking · Healthcare · Retail · Logistics · Government · Real Estate · Startups
+
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+<div align="center">
+
+Whether you need **AI consulting**, a **production ML system**, or a **technical co-founder** — I'd love to hear about your project.
+
+| 📬 Channel | 🔗 Link |
+|-----------|---------|
+| 🌐 Portfolio | [bestmazhindu.com](https://bestmazhindu.com) |
+| 💼 LinkedIn | [linkedin.com/in/best-mazhindu](https://linkedin.com/in/best-mazhindu) |
+| 🐙 GitHub | [github.com/best-mazhindu](https://github.com/best-mazhindu) |
+| ✉️ Email | [best@bestmazhindu.com](mailto:best@bestmazhindu.com) |
+| 📱 WhatsApp | [+263 77 5 526 709](https://wa.me/263775526709) |
+| 📍 Location | Harare, Zimbabwe 🇿🇼 — Remote Ready |
+
+<br/>
+
+> 💡 *"The best way to predict the future is to invent it." — Alan Kay*
+>
+> **Best Mazhindu** believes in relentless execution, continuous learning, and building systems that matter.
+> In a world transformed by AI, success belongs to those who work harder, think smarter, and stay committed to excellence.
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=best-mazhindu&color=00d4aa&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:0f2027&height=120&section=footer"/>
