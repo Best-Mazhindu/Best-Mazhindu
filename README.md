@@ -235,7 +235,7 @@ class BestMazhindu:
         api   = self.containerize_and_deploy(model)    # Docker → AWS Lambda / ECS
         return api.serve_predictions()                 # Production-grade ML 🚀
 ```
-
+---
 
 ## 🤝 Open to Collaboration
 
